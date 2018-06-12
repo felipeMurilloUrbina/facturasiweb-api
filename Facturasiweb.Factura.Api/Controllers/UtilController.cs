@@ -22,10 +22,30 @@ namespace Facturasiweb.Factura.Api.Controllers
             _servicio.AgregarUsuario();
             return Ok();
         }
+        [Route("unidades/cantidad"), HttpGet]
+        public IHttpActionResult GetCantidadUnidades()
+        {
+            return Ok(_servicio.GetCantidadUnidades());
+        }
+        [Route("catalogos/cantidad"), HttpGet]
+        public IHttpActionResult GetCantidadCatalogos()
+        {
+            return Ok(_servicio.GetCantidadCatalogo());
+        }
         [Route("unidades/{busqueda}"), HttpGet]
         public IHttpActionResult GetUnidades([FromUri]string busqueda)
         {
             return Ok(_servicio.GetUnidades(busqueda));
+        }
+        [Route("unidades/{pagina}/{registros}"), HttpGet]
+        public IHttpActionResult GetTodasUnidades(int pagina, int registros)
+        {
+            return Ok(_servicio.GetUnidades(pagina, registros));
+        }
+        [Route("catalogos/{pagina}/{registros}"), HttpGet]
+        public IHttpActionResult GetTodosCatalogo(int pagina, int registros)
+        {
+            return Ok(_servicio.GetUnidades(pagina, registros));
         }
         [Route("catalogos/{busqueda}"), HttpGet]
         public IHttpActionResult GetCatalogos([FromUri]string busqueda)

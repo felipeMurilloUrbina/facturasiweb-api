@@ -79,3 +79,30 @@ C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiwe
 C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.TimbradoDLL\obj\Release\Facturasiweb.Factura.TimbradoDLL.dll
 C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.TimbradoDLL\obj\Release\Facturasiweb.Factura.TimbradoDLL.pdb
 C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.TimbradoDLL\obj\Release\Facturasiweb.Factura.TimbradoDLL.XmlSerializers.dll
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.TimbradoDLL\bin\Release\Facturasiweb.Factura.TimbradoDLL.dll.config
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.TimbradoDLL\bin\Release\Facturasiweb.Factura.TimbradoDLL.dll
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.TimbradoDLL\bin\Release\Facturasiweb.Factura.TimbradoDLL.XmlSerializers.dll
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.TimbradoDLL\bin\Release\Facturasiweb.Factura.TimbradoDLL.pdb
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.TimbradoDLL\bin\Release\BouncyCastle.Crypto.dll
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.TimbradoDLL\bin\Release\EntityFramework.dll
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.TimbradoDLL\bin\Release\EntityFramework.DynamicFilters.dll
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.TimbradoDLL\bin\Release\EntityFramework.SqlServer.dll
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.TimbradoDLL\bin\Release\Facturasiweb.Factura.LogDLL.dll
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.TimbradoDLL\bin\Release\Facturasiweb.Factura.Modelo.dll
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.TimbradoDLL\bin\Release\Newtonsoft.Json.dll
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.TimbradoDLL\bin\Release\ThoughtWorks.QRCode.dll
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.TimbradoDLL\bin\Release\Facturasiweb.Factura.LogDLL.pdb
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.TimbradoDLL\bin\Release\Facturasiweb.Factura.Modelo.pdb
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.TimbradoDLL\bin\Release\Facturasiweb.Factura.Modelo.dll.config
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.TimbradoDLL\bin\Release\EntityFramework.xml
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.TimbradoDLL\bin\Release\EntityFramework.DynamicFilters.xml
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.TimbradoDLL\bin\Release\EntityFramework.SqlServer.xml
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.TimbradoDLL\bin\Release\Newtonsoft.Json.xml
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.TimbradoDLL\obj\Release\Facturasiweb.Factura.TimbradoDLL.csprojAssemblyReference.cache
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.TimbradoDLL\obj\Release\Facturasiweb.Factura.TimbradoDLL.Properties.Resources.resources
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.TimbradoDLL\obj\Release\Facturasiweb.Factura.TimbradoDLL.csproj.GenerateResource.cache
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.TimbradoDLL\obj\Release\Facturasiweb.Factura.TimbradoDLL.csproj.CoreCompileInputs.cache
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.TimbradoDLL\obj\Release\Facturasiweb.Factura.TimbradoDLL.csproj.CopyComplete
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.TimbradoDLL\obj\Release\Facturasiweb.Factura.TimbradoDLL.dll
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.TimbradoDLL\obj\Release\Facturasiweb.Factura.TimbradoDLL.pdb
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.TimbradoDLL\obj\Release\Facturasiweb.Factura.TimbradoDLL.XmlSerializers.dll

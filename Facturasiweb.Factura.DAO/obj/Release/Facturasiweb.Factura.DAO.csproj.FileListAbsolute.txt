@@ -58,3 +58,23 @@ C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiwe
 C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.DAO\obj\Release\Facturasiweb.Factura.DAO.csproj.CopyComplete
 C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.DAO\obj\Release\Facturasiweb.Factura.DAO.dll
 C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.DAO\obj\Release\Facturasiweb.Factura.DAO.pdb
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.DAO\bin\Release\Facturasiweb.Factura.DAO.dll.config
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.DAO\bin\Release\Facturasiweb.Factura.DAO.dll
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.DAO\bin\Release\Facturasiweb.Factura.DAO.pdb
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.DAO\bin\Release\EntityFramework.dll
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.DAO\bin\Release\EntityFramework.DynamicFilters.dll
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.DAO\bin\Release\EntityFramework.SqlServer.dll
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.DAO\bin\Release\EntityFramework.SqlServerCompact.dll
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.DAO\bin\Release\Facturasiweb.Factura.Modelo.dll
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.DAO\bin\Release\System.Data.SqlServerCe.dll
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.DAO\bin\Release\Facturasiweb.Factura.Modelo.pdb
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.DAO\bin\Release\Facturasiweb.Factura.Modelo.dll.config
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.DAO\bin\Release\EntityFramework.xml
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.DAO\bin\Release\EntityFramework.DynamicFilters.xml
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.DAO\bin\Release\EntityFramework.SqlServer.xml
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.DAO\bin\Release\EntityFramework.SqlServerCompact.xml
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.DAO\obj\Release\Facturasiweb.Factura.DAO.csprojAssemblyReference.cache
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.DAO\obj\Release\Facturasiweb.Factura.DAO.csproj.CoreCompileInputs.cache
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.DAO\obj\Release\Facturasiweb.Factura.DAO.csproj.CopyComplete
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.DAO\obj\Release\Facturasiweb.Factura.DAO.dll
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.DAO\obj\Release\Facturasiweb.Factura.DAO.pdb

@@ -42,3 +42,18 @@ C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiwe
 C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\obj\Release\Facturasiweb.Factura.Modelo.csproj.CopyComplete
 C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\obj\Release\Facturasiweb.Factura.Modelo.dll
 C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\obj\Release\Facturasiweb.Factura.Modelo.pdb
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.Modelo\bin\Release\Facturasiweb.Factura.Modelo.dll.config
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.Modelo\bin\Release\Facturasiweb.Factura.Modelo.dll
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.Modelo\bin\Release\Facturasiweb.Factura.Modelo.pdb
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.Modelo\bin\Release\EntityFramework.dll
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.Modelo\bin\Release\EntityFramework.SqlServer.dll
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.Modelo\bin\Release\EntityFramework.SqlServerCompact.dll
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.Modelo\bin\Release\System.Data.SqlServerCe.dll
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.Modelo\bin\Release\EntityFramework.xml
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.Modelo\bin\Release\EntityFramework.SqlServer.xml
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.Modelo\bin\Release\EntityFramework.SqlServerCompact.xml
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.Modelo\obj\Release\Facturasiweb.Factura.Modelo.csprojAssemblyReference.cache
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.Modelo\obj\Release\Facturasiweb.Factura.Modelo.csproj.CoreCompileInputs.cache
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.Modelo\obj\Release\Facturasiweb.Factura.Modelo.csproj.CopyComplete
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.Modelo\obj\Release\Facturasiweb.Factura.Modelo.dll
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.Modelo\obj\Release\Facturasiweb.Factura.Modelo.pdb

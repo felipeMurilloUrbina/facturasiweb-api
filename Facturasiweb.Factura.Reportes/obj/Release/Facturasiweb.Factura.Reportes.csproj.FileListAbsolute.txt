@@ -34,3 +34,18 @@ C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiwe
 C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Reportes\obj\Release\Facturasiweb.Factura.Reportes.csproj.CopyComplete
 C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Reportes\obj\Release\Facturasiweb.Factura.Reportes.dll
 C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Reportes\obj\Release\Facturasiweb.Factura.Reportes.pdb
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.Reportes\bin\Release\Facturasiweb.Factura.Reportes.dll.config
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.Reportes\bin\Release\Facturasiweb.Factura.Reportes.dll
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.Reportes\bin\Release\Facturasiweb.Factura.Reportes.pdb
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.Reportes\bin\Release\Facturasiweb.Factura.LogDLL.dll
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.Reportes\bin\Release\Facturasiweb.Factura.Modelo.dll
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.Reportes\bin\Release\Newtonsoft.Json.dll
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.Reportes\bin\Release\Facturasiweb.Factura.LogDLL.pdb
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.Reportes\bin\Release\Facturasiweb.Factura.Modelo.pdb
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.Reportes\bin\Release\Facturasiweb.Factura.Modelo.dll.config
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.Reportes\bin\Release\Newtonsoft.Json.xml
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.Reportes\obj\Release\Facturasiweb.Factura.Reportes.csprojAssemblyReference.cache
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.Reportes\obj\Release\Facturasiweb.Factura.Reportes.csproj.CoreCompileInputs.cache
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.Reportes\obj\Release\Facturasiweb.Factura.Reportes.csproj.CopyComplete
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.Reportes\obj\Release\Facturasiweb.Factura.Reportes.dll
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.Reportes\obj\Release\Facturasiweb.Factura.Reportes.pdb

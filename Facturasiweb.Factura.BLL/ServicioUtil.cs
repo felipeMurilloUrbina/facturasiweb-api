@@ -8,6 +8,8 @@ using Facturasiweb.Factura.DAO;
 using Facturasiweb.Factura.LogDLL;
 using Facturasiweb.Factura.Modelo;
 using System.Data.Entity;
+using Facturasiweb.Factura.Api.Models;
+
 namespace Facturasiweb.Factura.BLL
 {
     public class ServicioUtil : ServicioBase
@@ -38,7 +40,57 @@ namespace Facturasiweb.Factura.BLL
                 _unidades = _contexto.CatSatUnidades.Where(p => p.Codigo.ToLower().Contains(busqueda.ToLower())).Take(20).OrderBy(u => u.Codigo).ToList();
             return _unidades;
         }
+        public int GetCantidadUnidades()
+        {
+            return _contexto.CatSatUnidades.Count();
+        }
 
+        public int GetCantidadCatalogo()
+        {
+            return _contexto.CatSatProductos.Count();
+        }
+        public Paginacion<CatSatUnidad> GetUnidades(int pagina, int registros)
+        {
+            var elementostotales = _contexto.CatSatUnidades.Count();
+            var paginastotales = (int)Math.Ceiling((double)elementostotales / registros);
+            var unidades = _contexto.CatSatUnidades
+                .OrderBy(c => c.Id)
+                .Skip((pagina) * registros)
+                .Take(registros)
+                .ToList();
+
+            var result = new Paginacion<CatSatUnidad>()
+            {
+                ElementosPagina = registros,
+                ElementosTotales = elementostotales,
+                PaginasTotales = paginastotales,
+                PaginaActual = pagina,
+                Elmentos = unidades
+            };
+            return result;
+
+        }
+        public Paginacion<CatSatProducto> GetCatalogoSat(int pagina, int registros)
+        {
+            var elementostotales = _contexto.CatSatProductos.Count();
+            var paginastotales = (int)Math.Ceiling((double)elementostotales / registros);
+            var unidades = _contexto.CatSatProductos
+                .OrderBy(c => c.Id)
+                .Skip((pagina) * registros)
+                .Take(registros)
+                .ToList();
+
+            var result = new Paginacion<CatSatProducto>()
+            {
+                ElementosPagina = registros,
+                ElementosTotales = elementostotales,
+                PaginasTotales = paginastotales,
+                PaginaActual = pagina,
+                Elmentos = unidades
+            };
+            return result;
+                
+        }
         public ICollection<CatSatProducto> GetCatalogoSat(string busqueda)
         {
             var _productos = _contexto.CatSatProductos.Where(p => p.Descripcion.ToLower().Equals(busqueda.ToLower())).OrderBy(u => u.Descripcion).ToList();

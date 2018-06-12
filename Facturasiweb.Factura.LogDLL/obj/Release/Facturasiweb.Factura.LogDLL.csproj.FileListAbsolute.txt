@@ -15,3 +15,9 @@ C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiwe
 C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.LogDLL\obj\Release\Facturasiweb.Factura.LogDLL.csproj.CoreCompileInputs.cache
 C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.LogDLL\obj\Release\Facturasiweb.Factura.LogDLL.dll
 C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.LogDLL\obj\Release\Facturasiweb.Factura.LogDLL.pdb
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.LogDLL\bin\Release\Facturasiweb.Factura.LogDLL.dll
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.LogDLL\bin\Release\Facturasiweb.Factura.LogDLL.pdb
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.LogDLL\obj\Release\Facturasiweb.Factura.LogDLL.csprojAssemblyReference.cache
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.LogDLL\obj\Release\Facturasiweb.Factura.LogDLL.csproj.CoreCompileInputs.cache
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.LogDLL\obj\Release\Facturasiweb.Factura.LogDLL.dll
+C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.LogDLL\obj\Release\Facturasiweb.Factura.LogDLL.pdb
