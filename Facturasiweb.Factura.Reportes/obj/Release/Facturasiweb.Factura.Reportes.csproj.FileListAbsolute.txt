@@ -1,0 +1,36 @@
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.Reportes\bin\Release\Facturasiweb.Factura.Reportes.dll.config
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.Reportes\bin\Release\Facturasiweb.Factura.Reportes.dll
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.Reportes\bin\Release\Facturasiweb.Factura.Reportes.pdb
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.Reportes\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.Reportes\bin\Release\CrystalDecisions.ReportSource.dll
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.Reportes\bin\Release\CrystalDecisions.Shared.dll
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.Reportes\bin\Release\Facturasiweb.Factura.LogDLL.dll
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.Reportes\bin\Release\Facturasiweb.Factura.Modelo.dll
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.Reportes\bin\Release\Newtonsoft.Json.dll
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.Reportes\bin\Release\Facturasiweb.Factura.LogDLL.pdb
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.Reportes\bin\Release\Facturasiweb.Factura.Modelo.pdb
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.Reportes\bin\Release\Facturasiweb.Factura.Modelo.dll.config
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.Reportes\bin\Release\Newtonsoft.Json.xml
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.Reportes\obj\Release\Facturasiweb.Factura.Reportes.csprojResolveAssemblyReference.cache
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.Reportes\obj\Release\Facturasiweb.Factura.Reportes.csproj.CoreCompileInputs.cache
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.Reportes\obj\Release\Facturasiweb.Factura.Reportes.csproj.CopyComplete
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.Reportes\obj\Release\Facturasiweb.Factura.Reportes.dll
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.Reportes\obj\Release\Facturasiweb.Factura.Reportes.pdb
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Reportes\bin\Release\Facturasiweb.Factura.Reportes.dll.config
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Reportes\bin\Release\Facturasiweb.Factura.Reportes.dll
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Reportes\bin\Release\Facturasiweb.Factura.Reportes.pdb
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Reportes\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Reportes\bin\Release\CrystalDecisions.ReportSource.dll
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Reportes\bin\Release\CrystalDecisions.Shared.dll
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Reportes\bin\Release\Facturasiweb.Factura.LogDLL.dll
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Reportes\bin\Release\Facturasiweb.Factura.Modelo.dll
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Reportes\bin\Release\Newtonsoft.Json.dll
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Reportes\bin\Release\Facturasiweb.Factura.LogDLL.pdb
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Reportes\bin\Release\Facturasiweb.Factura.Modelo.pdb
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Reportes\bin\Release\Facturasiweb.Factura.Modelo.dll.config
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Reportes\bin\Release\Newtonsoft.Json.xml
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Reportes\obj\Release\Facturasiweb.Factura.Reportes.csprojAssemblyReference.cache
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Reportes\obj\Release\Facturasiweb.Factura.Reportes.csproj.CoreCompileInputs.cache
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Reportes\obj\Release\Facturasiweb.Factura.Reportes.csproj.CopyComplete
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Reportes\obj\Release\Facturasiweb.Factura.Reportes.dll
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Reportes\obj\Release\Facturasiweb.Factura.Reportes.pdb

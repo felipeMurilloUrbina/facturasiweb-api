@@ -1,0 +1,6 @@
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.LogDLL\bin\Debug\Facturasiweb.Factura.LogDLL.dll
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.LogDLL\bin\Debug\Facturasiweb.Factura.LogDLL.pdb
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.LogDLL\obj\Debug\Facturasiweb.Factura.LogDLL.csproj.CoreCompileInputs.cache
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.LogDLL\obj\Debug\Facturasiweb.Factura.LogDLL.dll
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.LogDLL\obj\Debug\Facturasiweb.Factura.LogDLL.pdb
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.LogDLL\obj\Debug\Facturasiweb.Factura.LogDLL.csprojResolveAssemblyReference.cache

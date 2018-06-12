@@ -1,0 +1,150 @@
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.BLL.dll.config
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.BLL.dll
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.BLL.pdb
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\AutoMapper.dll
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\CrystalDecisions.ReportSource.dll
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\CrystalDecisions.Shared.dll
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\EntityFramework.dll
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\EntityFramework.SqlServer.dll
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\EntityFramework.SqlServerCompact.dll
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.DAO.dll
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.LogDLL.dll
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.Modelo.dll
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.Reportes.dll
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.TimbradoDLL.dll
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Microsoft.IdentityModel.Logging.dll
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Microsoft.IdentityModel.Tokens.dll
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Newtonsoft.Json.dll
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\System.Data.SqlServerCe.dll
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\System.IdentityModel.Tokens.Jwt.dll
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\EntityFramework.DynamicFilters.dll
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\BouncyCastle.Crypto.dll
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\ThoughtWorks.QRCode.dll
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.Reportes.pdb
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.Reportes.dll.config
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.DAO.pdb
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.DAO.dll.config
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.LogDLL.pdb
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.Modelo.pdb
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.Modelo.dll.config
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.TimbradoDLL.pdb
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.TimbradoDLL.dll.config
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\AutoMapper.xml
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\EntityFramework.xml
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\EntityFramework.SqlServer.xml
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\EntityFramework.SqlServerCompact.xml
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Microsoft.IdentityModel.Logging.pdb
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Microsoft.IdentityModel.Logging.xml
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Microsoft.IdentityModel.Tokens.pdb
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Microsoft.IdentityModel.Tokens.xml
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Newtonsoft.Json.xml
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\System.IdentityModel.Tokens.Jwt.pdb
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\System.IdentityModel.Tokens.Jwt.xml
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\EntityFramework.DynamicFilters.xml
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.TimbradoDLL.XmlSerializers.dll
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.BLL\obj\Release\Facturasiweb.Factura.BLL.csprojResolveAssemblyReference.cache
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.BLL\obj\Release\Facturasiweb.Factura.BLL.csproj.CoreCompileInputs.cache
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.BLL\obj\Release\Facturasiweb.Factura.BLL.csproj.CopyComplete
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.BLL\obj\Release\Facturasiweb.Factura.BLL.dll
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.BLL\obj\Release\Facturasiweb.Factura.BLL.pdb
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.BLL.dll.config
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.BLL.dll
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.BLL.pdb
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\AutoMapper.dll
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\CrystalDecisions.ReportSource.dll
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\CrystalDecisions.Shared.dll
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\EntityFramework.dll
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\EntityFramework.SqlServer.dll
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\EntityFramework.SqlServerCompact.dll
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.DAO.dll
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.LogDLL.dll
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.Modelo.dll
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.Reportes.dll
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.TimbradoDLL.dll
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Microsoft.IdentityModel.Logging.dll
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Microsoft.IdentityModel.Tokens.dll
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Newtonsoft.Json.dll
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\System.Data.SqlServerCe.dll
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\System.IdentityModel.Tokens.Jwt.dll
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\EntityFramework.DynamicFilters.dll
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\BouncyCastle.Crypto.dll
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\ThoughtWorks.QRCode.dll
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.DAO.pdb
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.DAO.dll.config
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.LogDLL.pdb
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.Modelo.pdb
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.Modelo.dll.config
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.Reportes.pdb
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.Reportes.dll.config
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.TimbradoDLL.pdb
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.TimbradoDLL.dll.config
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\AutoMapper.xml
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\EntityFramework.xml
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\EntityFramework.SqlServer.xml
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\EntityFramework.SqlServerCompact.xml
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Microsoft.IdentityModel.Logging.pdb
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Microsoft.IdentityModel.Logging.xml
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Microsoft.IdentityModel.Tokens.pdb
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Microsoft.IdentityModel.Tokens.xml
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Newtonsoft.Json.xml
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\System.IdentityModel.Tokens.Jwt.pdb
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\System.IdentityModel.Tokens.Jwt.xml
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\EntityFramework.DynamicFilters.xml
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.TimbradoDLL.XmlSerializers.dll
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.BLL\obj\Release\Facturasiweb.Factura.BLL.csprojResolveAssemblyReference.cache
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.BLL\obj\Release\Facturasiweb.Factura.BLL.csproj.CoreCompileInputs.cache
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.BLL\obj\Release\Facturasiweb.Factura.BLL.csproj.CopyComplete
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.BLL\obj\Release\Facturasiweb.Factura.BLL.dll
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.BLL\obj\Release\Facturasiweb.Factura.BLL.pdb
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.BLL.dll.config
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.BLL.dll
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.BLL.pdb
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\AutoMapper.dll
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\CrystalDecisions.ReportSource.dll
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\CrystalDecisions.Shared.dll
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\EntityFramework.dll
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\EntityFramework.SqlServer.dll
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\EntityFramework.SqlServerCompact.dll
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.DAO.dll
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.LogDLL.dll
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.Modelo.dll
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.Reportes.dll
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.TimbradoDLL.dll
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Microsoft.IdentityModel.Logging.dll
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Microsoft.IdentityModel.Tokens.dll
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Newtonsoft.Json.dll
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\System.Data.SqlServerCe.dll
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\System.IdentityModel.Tokens.Jwt.dll
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\EntityFramework.DynamicFilters.dll
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\BouncyCastle.Crypto.dll
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\ThoughtWorks.QRCode.dll
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.DAO.pdb
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.DAO.dll.config
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.LogDLL.pdb
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.Modelo.pdb
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.Modelo.dll.config
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.Reportes.pdb
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.Reportes.dll.config
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.TimbradoDLL.pdb
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.TimbradoDLL.dll.config
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\AutoMapper.xml
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\EntityFramework.xml
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\EntityFramework.SqlServer.xml
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\EntityFramework.SqlServerCompact.xml
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Microsoft.IdentityModel.Logging.pdb
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Microsoft.IdentityModel.Logging.xml
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Microsoft.IdentityModel.Tokens.pdb
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Microsoft.IdentityModel.Tokens.xml
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Newtonsoft.Json.xml
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\System.IdentityModel.Tokens.Jwt.pdb
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\System.IdentityModel.Tokens.Jwt.xml
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\EntityFramework.DynamicFilters.xml
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.BLL\bin\Release\Facturasiweb.Factura.TimbradoDLL.XmlSerializers.dll
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.BLL\obj\Release\Facturasiweb.Factura.BLL.csprojAssemblyReference.cache
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.BLL\obj\Release\Facturasiweb.Factura.BLL.csproj.CoreCompileInputs.cache
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.BLL\obj\Release\Facturasiweb.Factura.BLL.csproj.CopyComplete
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.BLL\obj\Release\Facturasiweb.Factura.BLL.dll
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.BLL\obj\Release\Facturasiweb.Factura.BLL.pdb

@@ -1,0 +1,15 @@
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\bin\Debug\Facturasiweb.Factura.Modelo.dll.config
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\bin\Debug\Facturasiweb.Factura.Modelo.dll
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\bin\Debug\Facturasiweb.Factura.Modelo.pdb
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\bin\Debug\EntityFramework.dll
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\bin\Debug\EntityFramework.SqlServer.dll
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\bin\Debug\System.Data.SqlServerCe.dll
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\bin\Debug\EntityFramework.xml
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\bin\Debug\EntityFramework.SqlServer.xml
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\obj\Debug\Facturasiweb.Factura.Modelo.csproj.CoreCompileInputs.cache
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\obj\Debug\Facturasiweb.Factura.Modelo.csproj.CopyComplete
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\obj\Debug\Facturasiweb.Factura.Modelo.dll
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\obj\Debug\Facturasiweb.Factura.Modelo.pdb
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\obj\Debug\Facturasiweb.Factura.Modelo.csprojResolveAssemblyReference.cache

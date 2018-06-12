@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://facturacion.finkok.com/utilities" xmlns:senc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:s0="apps.services.soap.core.views" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:s12enc="http://www.w3.org/2003/05/soap-encoding/" xmlns:wsa="http://schemas.xmlsoap.org/ws/2003/03/addressing" xmlns:s12env="http://www.w3.org/2003/05/soap-envelope/" xmlns:plink="http://schemas.xmlsoap.org/ws/2003/05/partner-link/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:senv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xop="http://www.w3.org/2004/08/xop/include" name="Application" targetNamespace="http://facturacion.finkok.com/utilities" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xs:schema elementFormDefault="qualified" targetNamespace="apps.services.soap.core.views">
+      <xs:complexType name="ReportUUIDResult">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="invoices" nillable="true" type="s0:ReportUUIDArray" />
+          <xs:element minOccurs="0" name="error" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="ReportUUIDArray">
+        <xs:sequence>
+          <xs:element minOccurs="0" maxOccurs="unbounded" name="ReportUUID" nillable="true" type="s0:ReportUUID" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="ResponseToken">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="username" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="status" nillable="true" type="xs:boolean" />
+          <xs:element minOccurs="0" name="name" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="success" nillable="true" type="xs:boolean" />
+          <xs:element minOccurs="0" name="token" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="message" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="DateResult">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="error" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="datetime" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="ReportTotalResult">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="result" nillable="true" type="s0:ReportTotalArray" />
+          <xs:element minOccurs="0" name="error" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="ReportTotalArray">
+        <xs:sequence>
+          <xs:element minOccurs="0" maxOccurs="unbounded" name="ReportTotal" nillable="true" type="s0:ReportTotal" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="ReportTotal">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="total" nillable="true" type="xs:integer" />
+          <xs:element minOccurs="0" name="taxpayer_id" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="XMLResult">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="xml" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="error" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="ReportUUID">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="date" nillable="true" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="uuid" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="ReportTotalCreditResult">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="result" nillable="true" type="s0:ReportTotalCreditArray" />
+          <xs:element minOccurs="0" name="error" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="ReportTotalCreditArray">
+        <xs:sequence>
+          <xs:element minOccurs="0" maxOccurs="unbounded" name="ReportTotalCredit" nillable="true" type="s0:ReportTotalCredit" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="ReportTotalCredit">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="taxpayer_id" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="credit" nillable="true" type="xs:integer" />
+          <xs:element minOccurs="0" name="date" nillable="true" type="xs:dateTime" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:element name="ReportTotalCredit" type="s0:ReportTotalCredit" />
+      <xs:element name="ReportTotalCreditArray" type="s0:ReportTotalCreditArray" />
+      <xs:element name="ReportTotalCreditResult" type="s0:ReportTotalCreditResult" />
+      <xs:element name="ReportUUID" type="s0:ReportUUID" />
+      <xs:element name="XMLResult" type="s0:XMLResult" />
+      <xs:element name="ReportTotal" type="s0:ReportTotal" />
+      <xs:element name="ReportTotalArray" type="s0:ReportTotalArray" />
+      <xs:element name="ReportTotalResult" type="s0:ReportTotalResult" />
+      <xs:element name="DateResult" type="s0:DateResult" />
+      <xs:element name="ResponseToken" type="s0:ResponseToken" />
+      <xs:element name="ReportUUIDArray" type="s0:ReportUUIDArray" />
+      <xs:element name="ReportUUIDResult" type="s0:ReportUUIDResult" />
+    </xs:schema>
+    <xs:schema elementFormDefault="qualified" targetNamespace="http://facturacion.finkok.com/utilities">
+      <xs:import namespace="apps.services.soap.core.views" />
+      <xs:complexType name="add_tokenResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="add_tokenResult" nillable="true" type="s0:ResponseToken" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="report_uuidResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="report_uuidResult" nillable="true" type="s0:ReportUUIDResult" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="add_token">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="username" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="password" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="name" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="token_username" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="taxpayer_id" nillable="true" type="tns:add_token_taxpayer_idType" />
+          <xs:element minOccurs="0" name="status" nillable="true" type="xs:boolean" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:simpleType name="add_token_taxpayer_idType">
+        <xs:restriction base="xs:string">
+          <xs:pattern value="^[A-Z,&amp;]{3,4}[0-9]{2}[0-1][0-9][0-3][0-9][A-Z,0-9][A-Z,0-9][0-9,A-Z]?$" />
+        </xs:restriction>
+      </xs:simpleType>
+      <xs:complexType name="datetimeResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="datetimeResult" nillable="true" type="s0:DateResult" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="report_totalResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="report_totalResult" nillable="true" type="s0:ReportTotalResult" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="get_xml">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="username" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="password" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="uuid" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="taxpayer_id" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="invoice_type" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="get_xmlResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="get_xmlResult" nillable="true" type="s0:XMLResult" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="report_credit">
+        <xs:sequence>
+          <xs:element name="username" type="xs:string" />
+          <xs:element name="password" type="xs:string" />
+          <xs:element name="taxpayer_id" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="report_total">
+        <xs:sequence>
+          <xs:element name="username" type="xs:string" />
+          <xs:element name="password" type="xs:string" />
+          <xs:element name="taxpayer_id" type="xs:string" />
+          <xs:element name="date_from" type="xs:dateTime" />
+          <xs:element name="date_to" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="invoice_type" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="datetime">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="username" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="password" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="report_creditResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="report_creditResult" nillable="true" type="s0:ReportTotalCreditResult" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="report_uuid">
+        <xs:sequence>
+          <xs:element name="username" type="xs:string" />
+          <xs:element name="password" type="xs:string" />
+          <xs:element name="taxpayer_id" type="xs:string" />
+          <xs:element name="date_from" type="xs:dateTime" />
+          <xs:element name="date_to" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="invoice_type" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:element name="report_uuid" type="tns:report_uuid" />
+      <xs:element name="report_creditResponse" type="tns:report_creditResponse" />
+      <xs:element name="datetime" type="tns:datetime" />
+      <xs:element name="report_total" type="tns:report_total" />
+      <xs:element name="report_credit" type="tns:report_credit" />
+      <xs:element name="get_xmlResponse" type="tns:get_xmlResponse" />
+      <xs:element name="get_xml" type="tns:get_xml" />
+      <xs:element name="report_totalResponse" type="tns:report_totalResponse" />
+      <xs:element name="datetimeResponse" type="tns:datetimeResponse" />
+      <xs:element name="add_token" type="tns:add_token" />
+      <xs:element name="report_uuidResponse" type="tns:report_uuidResponse" />
+      <xs:element name="add_tokenResponse" type="tns:add_tokenResponse" />
+    </xs:schema>
+  </wsdl:types>
+  <wsdl:message name="report_total">
+    <wsdl:part name="report_total" element="tns:report_total" />
+  </wsdl:message>
+  <wsdl:message name="report_totalResponse">
+    <wsdl:part name="report_totalResponse" element="tns:report_totalResponse" />
+  </wsdl:message>
+  <wsdl:message name="report_uuid">
+    <wsdl:part name="report_uuid" element="tns:report_uuid" />
+  </wsdl:message>
+  <wsdl:message name="report_uuidResponse">
+    <wsdl:part name="report_uuidResponse" element="tns:report_uuidResponse" />
+  </wsdl:message>
+  <wsdl:message name="get_xml">
+    <wsdl:part name="get_xml" element="tns:get_xml" />
+  </wsdl:message>
+  <wsdl:message name="get_xmlResponse">
+    <wsdl:part name="get_xmlResponse" element="tns:get_xmlResponse" />
+  </wsdl:message>
+  <wsdl:message name="datetime">
+    <wsdl:part name="datetime" element="tns:datetime" />
+  </wsdl:message>
+  <wsdl:message name="datetimeResponse">
+    <wsdl:part name="datetimeResponse" element="tns:datetimeResponse" />
+  </wsdl:message>
+  <wsdl:message name="add_token">
+    <wsdl:part name="add_token" element="tns:add_token" />
+  </wsdl:message>
+  <wsdl:message name="add_tokenResponse">
+    <wsdl:part name="add_tokenResponse" element="tns:add_tokenResponse" />
+  </wsdl:message>
+  <wsdl:message name="report_credit">
+    <wsdl:part name="report_credit" element="tns:report_credit" />
+  </wsdl:message>
+  <wsdl:message name="report_creditResponse">
+    <wsdl:part name="report_creditResponse" element="tns:report_creditResponse" />
+  </wsdl:message>
+  <wsdl:portType name="Application">
+    <wsdl:operation name="report_total" parameterOrder="report_total">
+      <wsdl:documentation>This class returns a list of taxpayer id and the total number of invoices within a given range</wsdl:documentation>
+      <wsdl:input name="report_total" message="tns:report_total" />
+      <wsdl:output name="report_totalResponse" message="tns:report_totalResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="report_uuid" parameterOrder="report_uuid">
+      <wsdl:documentation>This class returns a list of UUIDs and dates for the given taxpayer id and date range</wsdl:documentation>
+      <wsdl:input name="report_uuid" message="tns:report_uuid" />
+      <wsdl:output name="report_uuidResponse" message="tns:report_uuidResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="get_xml" parameterOrder="get_xml">
+      <wsdl:documentation>This class returns the xml for the given uuid</wsdl:documentation>
+      <wsdl:input name="get_xml" message="tns:get_xml" />
+      <wsdl:output name="get_xmlResponse" message="tns:get_xmlResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="datetime" parameterOrder="datetime">
+      <wsdl:documentation>This class returns the system date</wsdl:documentation>
+      <wsdl:input name="datetime" message="tns:datetime" />
+      <wsdl:output name="datetimeResponse" message="tns:datetimeResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="add_token" parameterOrder="add_token">
+      <wsdl:input name="add_token" message="tns:add_token" />
+      <wsdl:output name="add_tokenResponse" message="tns:add_tokenResponse" />
+    </wsdl:operation>
+    <wsdl:operation name="report_credit" parameterOrder="report_credit">
+      <wsdl:input name="report_credit" message="tns:report_credit" />
+      <wsdl:output name="report_creditResponse" message="tns:report_creditResponse" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="Application" type="tns:Application">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="report_total">
+      <soap:operation soapAction="report_total" style="document" />
+      <wsdl:input name="report_total">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="report_totalResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="report_uuid">
+      <soap:operation soapAction="report_uuid" style="document" />
+      <wsdl:input name="report_uuid">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="report_uuidResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="get_xml">
+      <soap:operation soapAction="get_xml" style="document" />
+      <wsdl:input name="get_xml">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="get_xmlResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="datetime">
+      <soap:operation soapAction="datetime" style="document" />
+      <wsdl:input name="datetime">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="datetimeResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="add_token">
+      <soap:operation soapAction="add_token" style="document" />
+      <wsdl:input name="add_token">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="add_tokenResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="report_credit">
+      <soap:operation soapAction="report_credit" style="document" />
+      <wsdl:input name="report_credit">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="report_creditResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="UtilitiesSOAP">
+    <wsdl:port name="Application" binding="tns:Application">
+      <soap:address location="https://facturacion.finkok.com/servicios/soap/utilities" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

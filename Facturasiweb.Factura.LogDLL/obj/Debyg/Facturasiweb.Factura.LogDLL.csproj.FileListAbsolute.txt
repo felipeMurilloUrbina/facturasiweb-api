@@ -1,0 +1,12 @@
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.LogDLL\bin\Debyg\Facturasiweb.Factura.LogDLL.dll
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.LogDLL\bin\Debyg\Facturasiweb.Factura.LogDLL.pdb
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.LogDLL\obj\Debyg\Facturasiweb.Factura.LogDLL.csprojResolveAssemblyReference.cache
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.LogDLL\obj\Debyg\Facturasiweb.Factura.LogDLL.csproj.CoreCompileInputs.cache
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.LogDLL\obj\Debyg\Facturasiweb.Factura.LogDLL.dll
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.LogDLL\obj\Debyg\Facturasiweb.Factura.LogDLL.pdb
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.LogDLL\bin\Debyg\Facturasiweb.Factura.LogDLL.dll
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.LogDLL\bin\Debyg\Facturasiweb.Factura.LogDLL.pdb
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.LogDLL\obj\Debyg\Facturasiweb.Factura.LogDLL.csprojResolveAssemblyReference.cache
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.LogDLL\obj\Debyg\Facturasiweb.Factura.LogDLL.csproj.CoreCompileInputs.cache
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.LogDLL\obj\Debyg\Facturasiweb.Factura.LogDLL.dll
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.LogDLL\obj\Debyg\Facturasiweb.Factura.LogDLL.pdb

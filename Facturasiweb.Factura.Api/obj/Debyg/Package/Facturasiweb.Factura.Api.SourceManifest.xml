@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\self\Facturasiweb.Factura\Facturasiweb.Factura.Api\obj\Debyg\Package\PackageTmp" />
+  <setAcl path="C:\self\Facturasiweb.Factura\Facturasiweb.Factura.Api\obj\Debyg\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\self\Facturasiweb.Factura\Facturasiweb.Factura.Api\obj\Debyg\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

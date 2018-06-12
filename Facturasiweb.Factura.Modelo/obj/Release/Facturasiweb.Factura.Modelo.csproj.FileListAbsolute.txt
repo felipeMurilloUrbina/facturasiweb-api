@@ -1,0 +1,44 @@
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\bin\Release\Facturasiweb.Factura.Modelo.dll.config
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\bin\Release\Facturasiweb.Factura.Modelo.dll
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\bin\Release\Facturasiweb.Factura.Modelo.pdb
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\bin\Release\EntityFramework.dll
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\bin\Release\EntityFramework.SqlServer.dll
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\bin\Release\EntityFramework.SqlServerCompact.dll
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\bin\Release\System.Data.SqlServerCe.dll
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\bin\Release\EntityFramework.xml
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\bin\Release\EntityFramework.SqlServer.xml
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\bin\Release\EntityFramework.SqlServerCompact.xml
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\obj\Release\Facturasiweb.Factura.Modelo.csprojResolveAssemblyReference.cache
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\obj\Release\Facturasiweb.Factura.Modelo.csproj.CoreCompileInputs.cache
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\obj\Release\Facturasiweb.Factura.Modelo.csproj.CopyComplete
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\obj\Release\Facturasiweb.Factura.Modelo.dll
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\obj\Release\Facturasiweb.Factura.Modelo.pdb
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\bin\Release\Facturasiweb.Factura.Modelo.dll.config
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\bin\Release\Facturasiweb.Factura.Modelo.dll
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\bin\Release\Facturasiweb.Factura.Modelo.pdb
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\bin\Release\EntityFramework.dll
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\bin\Release\EntityFramework.SqlServer.dll
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\bin\Release\EntityFramework.SqlServerCompact.dll
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\bin\Release\System.Data.SqlServerCe.dll
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\bin\Release\EntityFramework.xml
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\bin\Release\EntityFramework.SqlServer.xml
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\bin\Release\EntityFramework.SqlServerCompact.xml
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\obj\Release\Facturasiweb.Factura.Modelo.csprojResolveAssemblyReference.cache
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\obj\Release\Facturasiweb.Factura.Modelo.csproj.CoreCompileInputs.cache
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\obj\Release\Facturasiweb.Factura.Modelo.csproj.CopyComplete
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\obj\Release\Facturasiweb.Factura.Modelo.dll
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\obj\Release\Facturasiweb.Factura.Modelo.pdb
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\bin\Release\Facturasiweb.Factura.Modelo.dll.config
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\bin\Release\Facturasiweb.Factura.Modelo.dll
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\bin\Release\Facturasiweb.Factura.Modelo.pdb
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\bin\Release\EntityFramework.dll
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\bin\Release\EntityFramework.SqlServer.dll
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\bin\Release\EntityFramework.SqlServerCompact.dll
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\bin\Release\System.Data.SqlServerCe.dll
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\bin\Release\EntityFramework.xml
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\bin\Release\EntityFramework.SqlServer.xml
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\bin\Release\EntityFramework.SqlServerCompact.xml
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\obj\Release\Facturasiweb.Factura.Modelo.csproj.CoreCompileInputs.cache
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\obj\Release\Facturasiweb.Factura.Modelo.csproj.CopyComplete
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\obj\Release\Facturasiweb.Factura.Modelo.dll
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Modelo\obj\Release\Facturasiweb.Factura.Modelo.pdb

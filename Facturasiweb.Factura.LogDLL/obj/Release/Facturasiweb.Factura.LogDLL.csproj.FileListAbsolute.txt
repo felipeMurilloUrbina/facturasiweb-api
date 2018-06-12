@@ -1,0 +1,17 @@
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.LogDLL\bin\Release\Facturasiweb.Factura.LogDLL.dll
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.LogDLL\bin\Release\Facturasiweb.Factura.LogDLL.pdb
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.LogDLL\obj\Release\Facturasiweb.Factura.LogDLL.csprojResolveAssemblyReference.cache
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.LogDLL\obj\Release\Facturasiweb.Factura.LogDLL.csproj.CoreCompileInputs.cache
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.LogDLL\obj\Release\Facturasiweb.Factura.LogDLL.dll
+C:\self\Recuperado\Facturasiweb.Factura\Facturasiweb.Factura.LogDLL\obj\Release\Facturasiweb.Factura.LogDLL.pdb
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.LogDLL\bin\Release\Facturasiweb.Factura.LogDLL.dll
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.LogDLL\bin\Release\Facturasiweb.Factura.LogDLL.pdb
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.LogDLL\obj\Release\Facturasiweb.Factura.LogDLL.csprojResolveAssemblyReference.cache
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.LogDLL\obj\Release\Facturasiweb.Factura.LogDLL.csproj.CoreCompileInputs.cache
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.LogDLL\obj\Release\Facturasiweb.Factura.LogDLL.dll
+C:\self\Facturasiweb.Factura\Facturasiweb.Factura.LogDLL\obj\Release\Facturasiweb.Factura.LogDLL.pdb
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.LogDLL\bin\Release\Facturasiweb.Factura.LogDLL.dll
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.LogDLL\bin\Release\Facturasiweb.Factura.LogDLL.pdb
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.LogDLL\obj\Release\Facturasiweb.Factura.LogDLL.csproj.CoreCompileInputs.cache
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.LogDLL\obj\Release\Facturasiweb.Factura.LogDLL.dll
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.LogDLL\obj\Release\Facturasiweb.Factura.LogDLL.pdb

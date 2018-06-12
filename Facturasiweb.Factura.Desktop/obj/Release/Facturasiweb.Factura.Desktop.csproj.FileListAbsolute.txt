@@ -1,0 +1,15 @@
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Desktop\bin\Release\Facturasiweb.Factura.Desktop.exe.config
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Desktop\bin\Release\Facturasiweb.Factura.Desktop.exe
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Desktop\bin\Release\Facturasiweb.Factura.Desktop.pdb
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Desktop\obj\Release\Facturasiweb.Factura.Desktop.csprojAssemblyReference.cache
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Desktop\obj\Release\MainWindow.g.cs
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Desktop\obj\Release\App.g.cs
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Desktop\obj\Release\Facturasiweb.Factura.Desktop_MarkupCompile.cache
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Desktop\obj\Release\Facturasiweb.Factura.Desktop_MarkupCompile.lref
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Desktop\obj\Release\MainWindow.baml
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Desktop\obj\Release\Facturasiweb.Factura.Desktop.g.resources
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Desktop\obj\Release\Facturasiweb.Factura.Desktop.Properties.Resources.resources
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Desktop\obj\Release\Facturasiweb.Factura.Desktop.csproj.GenerateResource.cache
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Desktop\obj\Release\Facturasiweb.Factura.Desktop.csproj.CoreCompileInputs.cache
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Desktop\obj\Release\Facturasiweb.Factura.Desktop.exe
+C:\desarrollo\proyectos\Proyectoos Facturaacion\Facturasiweb.Factura\Facturasiweb.Factura.Desktop\obj\Release\Facturasiweb.Factura.Desktop.pdb
