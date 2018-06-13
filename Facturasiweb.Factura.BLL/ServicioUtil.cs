@@ -55,7 +55,7 @@ namespace Facturasiweb.Factura.BLL
             var paginastotales = (int)Math.Ceiling((double)elementostotales / registros);
             var unidades = _contexto.CatSatUnidades
                 .OrderBy(c => c.Id)
-                .Skip((pagina) * registros)
+                .Skip((pagina-1) * registros)
                 .Take(registros)
                 .ToList();
 
@@ -65,7 +65,7 @@ namespace Facturasiweb.Factura.BLL
                 ElementosTotales = elementostotales,
                 PaginasTotales = paginastotales,
                 PaginaActual = pagina,
-                Elmentos = unidades
+                Elementos = unidades
             };
             return result;
 
@@ -76,7 +76,7 @@ namespace Facturasiweb.Factura.BLL
             var paginastotales = (int)Math.Ceiling((double)elementostotales / registros);
             var unidades = _contexto.CatSatProductos
                 .OrderBy(c => c.Id)
-                .Skip((pagina) * registros)
+                .Skip((pagina-1) * registros)
                 .Take(registros)
                 .ToList();
 
@@ -86,7 +86,7 @@ namespace Facturasiweb.Factura.BLL
                 ElementosTotales = elementostotales,
                 PaginasTotales = paginastotales,
                 PaginaActual = pagina,
-                Elmentos = unidades
+                Elementos = unidades
             };
             return result;
                 

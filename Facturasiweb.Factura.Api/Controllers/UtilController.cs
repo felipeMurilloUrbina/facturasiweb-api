@@ -45,7 +45,7 @@ namespace Facturasiweb.Factura.Api.Controllers
         [Route("catalogos/{pagina}/{registros}"), HttpGet]
         public IHttpActionResult GetTodosCatalogo(int pagina, int registros)
         {
-            return Ok(_servicio.GetUnidades(pagina, registros));
+            return Ok(_servicio.GetCatalogoSat(pagina, registros));
         }
         [Route("catalogos/{busqueda}"), HttpGet]
         public IHttpActionResult GetCatalogos([FromUri]string busqueda)

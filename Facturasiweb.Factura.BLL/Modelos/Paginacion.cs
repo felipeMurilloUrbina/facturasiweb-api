@@ -15,6 +15,6 @@ namespace Facturasiweb.Factura.Api.Models
 
         public int PaginasTotales { get; set; }
 
-        public ICollection<T> Elmentos { get; set; }
+        public ICollection<T> Elementos { get; set; }
     }
 }

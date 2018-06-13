@@ -119,6 +119,7 @@
     <Compile Include="ServicioTurno.cs" />
     <Compile Include="ServicioUsuario.cs" />
     <Compile Include="ServicioUtil.cs" />
+    <Compile Include="Util\PaginacionGenerica.cs" />
     <Compile Include="Util\Ruta.cs" />
     <Compile Include="Util\Smpt.cs" />
   </ItemGroup>
