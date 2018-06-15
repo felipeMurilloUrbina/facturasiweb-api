@@ -205,133 +205,135 @@ namespace Facturasiweb.Factura.TimbradoDLL
                         XmlCreador.WriteEndElement();//FIN DE CUENTA PREDIAL
                     }
 
-
-                    XmlCreador.WriteStartElement("cfdi:Impuestos"); //INICIO DE IMPUESTOS
-                    if (detalle.Iva > -1 || detalle.Ieps > 0)
+                    if (detalle.Iva > 0 || detalle.Ieps > 0 || detalle.RetIsrDinero > 0 || detalle.RetIvaDinero > 0)
                     {
-                        XmlCreador.WriteStartElement("cfdi:Traslados"); //INICIO DE TRASLADOS
-                        if (detalle.Iva == -1)
+                        XmlCreador.WriteStartElement("cfdi:Impuestos"); //INICIO DE IMPUESTOS
+                        if (detalle.Iva > 0 || detalle.Ieps > 0)
                         {
-                            XmlCreador.WriteStartElement("cfdi:Traslado");//INICIO DE TRASLADO
-                            XmlCreador.WriteStartAttribute("Base");
-                            XmlCreador.WriteValue(detalle.TotalNeto.ToString("F", CultureInfo.InvariantCulture));
-                            XmlCreador.WriteEndAttribute();
-                            XmlCreador.WriteStartAttribute("Impuesto");
-                            XmlCreador.WriteValue("002");
-                            XmlCreador.WriteEndAttribute();
-                            XmlCreador.WriteStartAttribute("TipoFactor");
-                            XmlCreador.WriteValue("Exento");
-                            XmlCreador.WriteEndAttribute();
-                            XmlCreador.WriteEndElement();//FIN D
+                            XmlCreador.WriteStartElement("cfdi:Traslados"); //INICIO DE TRASLADOS
+                                                                            //if (detalle.Iva == -1)
+                                                                            //{
+                                                                            //    XmlCreador.WriteStartElement("cfdi:Traslado");//INICIO DE TRASLADO
+                                                                            //    XmlCreador.WriteStartAttribute("Base");
+                                                                            //    XmlCreador.WriteValue(detalle.TotalNeto.ToString("F", CultureInfo.InvariantCulture));
+                                                                            //    XmlCreador.WriteEndAttribute();
+                                                                            //    XmlCreador.WriteStartAttribute("Impuesto");
+                                                                            //    XmlCreador.WriteValue("002");
+                                                                            //    XmlCreador.WriteEndAttribute();
+                                                                            //    XmlCreador.WriteStartAttribute("TipoFactor");
+                                                                            //    XmlCreador.WriteValue("Exento");
+                                                                            //    XmlCreador.WriteEndAttribute();
+                                                                            //    XmlCreador.WriteEndElement();//FIN D
+                                                                            //}
+                                                                            //if (detalle.Iva == 0)
+                                                                            //{
+                                                                            //    XmlCreador.WriteStartElement("cfdi:Traslado");//INICIO DE TRASLADO
+                                                                            //    XmlCreador.WriteStartAttribute("Base");
+                                                                            //    XmlCreador.WriteValue(detalle.TotalNeto.ToString("F", CultureInfo.InvariantCulture));
+                                                                            //    XmlCreador.WriteEndAttribute();
+                                                                            //    XmlCreador.WriteStartAttribute("Impuesto");
+                                                                            //    XmlCreador.WriteValue("002");
+                                                                            //    XmlCreador.WriteEndAttribute();
+                                                                            //    XmlCreador.WriteStartAttribute("TipoFactor");
+                                                                            //    XmlCreador.WriteValue("Tasa");
+                                                                            //    XmlCreador.WriteEndAttribute();
+                                                                            //    XmlCreador.WriteStartAttribute("TasaOCuota");
+                                                                            //    XmlCreador.WriteValue(detalle.TasaIva.ToString("N6", CultureInfo.InvariantCulture));
+                                                                            //    XmlCreador.WriteEndAttribute();
+                                                                            //    XmlCreador.WriteStartAttribute("Importe");
+                                                                            //    XmlCreador.WriteValue(detalle.Iva.ToString("F", CultureInfo.InvariantCulture));
+                                                                            //    XmlCreador.WriteEndAttribute();
+                                                                            //    XmlCreador.WriteEndElement();//FIN D
+                                                                            //}
+                            if (detalle.Iva > 0)
+                            {
+                                XmlCreador.WriteStartElement("cfdi:Traslado");//INICIO DE TRASLADO
+                                XmlCreador.WriteStartAttribute("Base");
+                                XmlCreador.WriteValue(detalle.TotalNeto.ToString("F", CultureInfo.InvariantCulture));
+                                XmlCreador.WriteEndAttribute();
+                                XmlCreador.WriteStartAttribute("Impuesto");
+                                XmlCreador.WriteValue("002");
+                                XmlCreador.WriteEndAttribute();
+                                XmlCreador.WriteStartAttribute("TipoFactor");
+                                XmlCreador.WriteValue("Tasa");
+                                XmlCreador.WriteEndAttribute();
+                                XmlCreador.WriteStartAttribute("TasaOCuota");
+                                XmlCreador.WriteValue(detalle.TasaIva.ToString("N6", CultureInfo.InvariantCulture));
+                                XmlCreador.WriteEndAttribute();
+                                XmlCreador.WriteStartAttribute("Importe");
+                                XmlCreador.WriteValue(detalle.Iva.ToString("F", CultureInfo.InvariantCulture));
+                                XmlCreador.WriteEndAttribute();
+                                XmlCreador.WriteEndElement();//FIN D
+                            }
+                            if (detalle.Ieps > 0)
+                            {
+                                XmlCreador.WriteStartElement("cfdi:Traslado");//INICIO DE TRASLADO
+                                XmlCreador.WriteStartAttribute("Base");
+                                XmlCreador.WriteValue(detalle.TotalNeto.ToString("F", CultureInfo.InvariantCulture));
+                                XmlCreador.WriteEndAttribute();
+                                XmlCreador.WriteStartAttribute("Impuesto");
+                                XmlCreador.WriteValue("003");
+                                XmlCreador.WriteEndAttribute();
+                                XmlCreador.WriteStartAttribute("TipoFactor");
+                                XmlCreador.WriteValue("Tasa");
+                                XmlCreador.WriteEndAttribute();
+                                XmlCreador.WriteStartAttribute("TasaOCuota");
+                                XmlCreador.WriteValue(detalle.TasaIeps.ToString("N6", CultureInfo.InvariantCulture));
+                                XmlCreador.WriteEndAttribute();
+                                XmlCreador.WriteStartAttribute("Importe");
+                                XmlCreador.WriteValue(detalle.Ieps.ToString("F", CultureInfo.InvariantCulture));
+                                XmlCreador.WriteEndAttribute();
+                                XmlCreador.WriteEndElement();
+                            }
+                            XmlCreador.WriteEndElement();//FIN TRASLADOS
                         }
-                        if (detalle.Iva == 0)
+                        if (detalle.RetIsrDinero > 0 || detalle.RetIvaDinero > 0)
                         {
-                            XmlCreador.WriteStartElement("cfdi:Traslado");//INICIO DE TRASLADO
-                            XmlCreador.WriteStartAttribute("Base");
-                            XmlCreador.WriteValue(detalle.TotalNeto.ToString("F", CultureInfo.InvariantCulture));
-                            XmlCreador.WriteEndAttribute();
-                            XmlCreador.WriteStartAttribute("Impuesto");
-                            XmlCreador.WriteValue("002");
-                            XmlCreador.WriteEndAttribute();
-                            XmlCreador.WriteStartAttribute("TipoFactor");
-                            XmlCreador.WriteValue("Tasa");
-                            XmlCreador.WriteEndAttribute();
-                            XmlCreador.WriteStartAttribute("TasaOCuota");
-                            XmlCreador.WriteValue(detalle.TasaIva.ToString("N6", CultureInfo.InvariantCulture));
-                            XmlCreador.WriteEndAttribute();
-                            XmlCreador.WriteStartAttribute("Importe");
-                            XmlCreador.WriteValue(detalle.Iva.ToString("F", CultureInfo.InvariantCulture));
-                            XmlCreador.WriteEndAttribute();
-                            XmlCreador.WriteEndElement();//FIN D
+                            XmlCreador.WriteStartElement("cfdi:Retenciones");//RETENCIONES
+                            if (detalle.RetIsrDinero > 0)
+                            {
+                                XmlCreador.WriteStartElement("cfdi:Retencion");//INICIO DE TRASLADO
+                                XmlCreador.WriteStartAttribute("Base");
+                                XmlCreador.WriteValue(detalle.TotalNeto.ToString("F", CultureInfo.InvariantCulture));
+                                XmlCreador.WriteEndAttribute();
+                                XmlCreador.WriteStartAttribute("Impuesto");
+                                XmlCreador.WriteValue("001");
+                                XmlCreador.WriteEndAttribute();
+                                XmlCreador.WriteStartAttribute("TipoFactor");
+                                XmlCreador.WriteValue("Tasa");
+                                XmlCreador.WriteEndAttribute();
+                                XmlCreador.WriteStartAttribute("TasaOCuota");
+                                XmlCreador.WriteValue(detalle.TasaRetIsr.ToString("N6"));
+                                XmlCreador.WriteEndAttribute();
+                                XmlCreador.WriteStartAttribute("Importe");
+                                XmlCreador.WriteValue(detalle.RetIsrDinero.ToString("F", CultureInfo.InvariantCulture));
+                                XmlCreador.WriteEndAttribute();
+                                XmlCreador.WriteEndElement();//FIN D
+                            }
+                            if (detalle.RetIvaDinero > 0)
+                            {
+                                XmlCreador.WriteStartElement("cfdi:Retencion");//INICIO DE TRASLADO
+                                XmlCreador.WriteStartAttribute("Base");
+                                XmlCreador.WriteValue(detalle.TotalNeto.ToString("F", CultureInfo.InvariantCulture));
+                                XmlCreador.WriteEndAttribute();
+                                XmlCreador.WriteStartAttribute("Impuesto");
+                                XmlCreador.WriteValue("002");
+                                XmlCreador.WriteEndAttribute();
+                                XmlCreador.WriteStartAttribute("TipoFactor");
+                                XmlCreador.WriteValue("Tasa");
+                                XmlCreador.WriteEndAttribute();
+                                XmlCreador.WriteStartAttribute("TasaOCuota");
+                                XmlCreador.WriteValue(detalle.TasaRetIva.ToString("N6", CultureInfo.InvariantCulture));
+                                XmlCreador.WriteEndAttribute();
+                                XmlCreador.WriteStartAttribute("Importe");
+                                XmlCreador.WriteValue(detalle.RetIvaDinero.ToString("F", CultureInfo.InvariantCulture));
+                                XmlCreador.WriteEndAttribute();
+                                XmlCreador.WriteEndElement();//FIN D
+                            }
+                            XmlCreador.WriteEndElement();// FIN RETENCIONES
                         }
-                        if (detalle.Iva > 0)
-                        {
-                            XmlCreador.WriteStartElement("cfdi:Traslado");//INICIO DE TRASLADO
-                            XmlCreador.WriteStartAttribute("Base");
-                            XmlCreador.WriteValue(detalle.TotalNeto.ToString("F", CultureInfo.InvariantCulture));
-                            XmlCreador.WriteEndAttribute();
-                            XmlCreador.WriteStartAttribute("Impuesto");
-                            XmlCreador.WriteValue("002");
-                            XmlCreador.WriteEndAttribute();
-                            XmlCreador.WriteStartAttribute("TipoFactor");
-                            XmlCreador.WriteValue("Tasa");
-                            XmlCreador.WriteEndAttribute();
-                            XmlCreador.WriteStartAttribute("TasaOCuota");
-                            XmlCreador.WriteValue(detalle.TasaIva.ToString("N6", CultureInfo.InvariantCulture));
-                            XmlCreador.WriteEndAttribute();
-                            XmlCreador.WriteStartAttribute("Importe");
-                            XmlCreador.WriteValue(detalle.Iva.ToString("F", CultureInfo.InvariantCulture));
-                            XmlCreador.WriteEndAttribute();
-                            XmlCreador.WriteEndElement();//FIN D
-                        }
-                        if (detalle.Ieps > 0)
-                        {
-                            XmlCreador.WriteStartElement("cfdi:Traslado");//INICIO DE TRASLADO
-                            XmlCreador.WriteStartAttribute("Base");
-                            XmlCreador.WriteValue(detalle.TotalNeto.ToString("F", CultureInfo.InvariantCulture));
-                            XmlCreador.WriteEndAttribute();
-                            XmlCreador.WriteStartAttribute("Impuesto");
-                            XmlCreador.WriteValue("003");
-                            XmlCreador.WriteEndAttribute();
-                            XmlCreador.WriteStartAttribute("TipoFactor");
-                            XmlCreador.WriteValue("Tasa");
-                            XmlCreador.WriteEndAttribute();
-                            XmlCreador.WriteStartAttribute("TasaOCuota");
-                            XmlCreador.WriteValue(detalle.TasaIeps.ToString("N6", CultureInfo.InvariantCulture));
-                            XmlCreador.WriteEndAttribute();
-                            XmlCreador.WriteStartAttribute("Importe");
-                            XmlCreador.WriteValue(detalle.Ieps.ToString("F", CultureInfo.InvariantCulture));
-                            XmlCreador.WriteEndAttribute();
-                            XmlCreador.WriteEndElement();
-                        }
-                        XmlCreador.WriteEndElement();//FIN TRASLADOS
+                        XmlCreador.WriteEndElement();//IMPUESTOS
                     }
-                    if (detalle.RetIsrDinero > 0 || detalle.RetIvaDinero > 0)
-                    {
-                        XmlCreador.WriteStartElement("cfdi:Retenciones");//RETENCIONES
-                        if (detalle.RetIsrDinero > 0)
-                        {
-                            XmlCreador.WriteStartElement("cfdi:Retencion");//INICIO DE TRASLADO
-                            XmlCreador.WriteStartAttribute("Base");
-                            XmlCreador.WriteValue(detalle.TotalNeto.ToString("F", CultureInfo.InvariantCulture));
-                            XmlCreador.WriteEndAttribute();
-                            XmlCreador.WriteStartAttribute("Impuesto");
-                            XmlCreador.WriteValue("001");
-                            XmlCreador.WriteEndAttribute();
-                            XmlCreador.WriteStartAttribute("TipoFactor");
-                            XmlCreador.WriteValue("Tasa");
-                            XmlCreador.WriteEndAttribute();
-                            XmlCreador.WriteStartAttribute("TasaOCuota");
-                            XmlCreador.WriteValue(detalle.TasaRetIsr.ToString("N6"));
-                            XmlCreador.WriteEndAttribute();
-                            XmlCreador.WriteStartAttribute("Importe");
-                            XmlCreador.WriteValue(detalle.RetIsrDinero.ToString("F", CultureInfo.InvariantCulture));
-                            XmlCreador.WriteEndAttribute();
-                            XmlCreador.WriteEndElement();//FIN D
-                        }
-                        if (detalle.RetIvaDinero > 0)
-                        {
-                            XmlCreador.WriteStartElement("cfdi:Retencion");//INICIO DE TRASLADO
-                            XmlCreador.WriteStartAttribute("Base");
-                            XmlCreador.WriteValue(detalle.TotalNeto.ToString("F", CultureInfo.InvariantCulture));
-                            XmlCreador.WriteEndAttribute();
-                            XmlCreador.WriteStartAttribute("Impuesto");
-                            XmlCreador.WriteValue("002");
-                            XmlCreador.WriteEndAttribute();
-                            XmlCreador.WriteStartAttribute("TipoFactor");
-                            XmlCreador.WriteValue("Tasa");
-                            XmlCreador.WriteEndAttribute();
-                            XmlCreador.WriteStartAttribute("TasaOCuota");
-                            XmlCreador.WriteValue(detalle.TasaRetIva.ToString("N6", CultureInfo.InvariantCulture));
-                            XmlCreador.WriteEndAttribute();
-                            XmlCreador.WriteStartAttribute("Importe");
-                            XmlCreador.WriteValue(detalle.RetIvaDinero.ToString("F", CultureInfo.InvariantCulture));
-                            XmlCreador.WriteEndAttribute();
-                            XmlCreador.WriteEndElement();//FIN D
-                        }
-                        XmlCreador.WriteEndElement();// FIN RETENCIONES
-                    }
-                    XmlCreador.WriteEndElement();//IMPUESTOS
                     if (!String.IsNullOrEmpty(detalle.TipoComplemento))
                     {
                         //var ietu = new dynamic(detalle.Complemento);
