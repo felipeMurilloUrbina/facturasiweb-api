@@ -26,6 +26,7 @@
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
     <TargetFrameworkProfile />
+    <Use64BitIISExpress />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -266,6 +267,10 @@
     <ProjectReference Include="..\Facturasiweb.Factura.Modelo\Facturasiweb.Factura.Modelo.csproj">
       <Project>{bfd76c7d-bfc2-498c-a4b9-cad5e06a3f96}</Project>
       <Name>Facturasiweb.Factura.Modelo</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Facturasiweb.Factura.Reportes\Facturasiweb.Factura.Reportes.csproj">
+      <Project>{87568f0e-af07-44e0-9e21-c3b271b9185c}</Project>
+      <Name>Facturasiweb.Factura.Reportes</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

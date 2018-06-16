@@ -75,6 +75,7 @@
     <Compile Include="Cotizacion.cs" />
     <Compile Include="CotizacionTieneArchivo.cs" />
     <Compile Include="DetalleCotizacion.cs" />
+    <Compile Include="Direccion.cs" />
     <Compile Include="DTO\UsuarioDto.cs" />
     <Compile Include="Equipo.cs" />
     <Compile Include="Estatus.cs" />

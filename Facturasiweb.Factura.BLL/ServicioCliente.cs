@@ -6,6 +6,7 @@ using System;
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
+using System.Threading.Tasks;
 
 namespace Facturasiweb.Factura.BLL
 {
@@ -20,11 +21,10 @@ namespace Facturasiweb.Factura.BLL
         }
         public Cliente GetId(int clienteId)
         {
-            return this._contexto.Clientes.Find(clienteId);
+            return this._contexto.Clientes.Include(c=>c.Direcciones).Where(c=>c.Id==clienteId).FirstOrDefault();
         }
         public Boolean Post(ref string error, Cliente cliente, UsuarioDto usuario)
         {
-            
             try
             {
                 cliente.UsuarioCreadorId = usuario.Id;
@@ -45,6 +45,7 @@ namespace Facturasiweb.Factura.BLL
         {
             cliente.UsuarioModificadorId = usuario.Id;
             cliente.UsuarioId = usuario.UsuarioSistemaId;
+            this._contexto.Database.ExecuteSqlCommandAsync($"DELETE FROM DIRECCIONES WHERE CLIENTEID={cliente.Id}", null);
             this._contexto.Entry(cliente).State = EntityState.Modified;
             try
                {
@@ -64,8 +65,10 @@ namespace Facturasiweb.Factura.BLL
                 return "No puede estar vacio el cliente.";
             if (String.IsNullOrEmpty(cliente.Rfc))
                 return "El cliente debe tener RFC.";
-            if(String.IsNullOrEmpty(cliente.Descripcion))
+            if (String.IsNullOrEmpty(cliente.Descripcion))
                 return "El cliente debe tener razón social.";
+            if (cliente.Direcciones.Count() == 0)
+                return "El cliente debe de tener al menos una sucursal.";
             return "";
         }
     }

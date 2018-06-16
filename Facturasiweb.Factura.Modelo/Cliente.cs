@@ -17,21 +17,13 @@ namespace Facturasiweb.Factura.Modelo
     public partial class Cliente : Base, IUsuarioCreador
     {
         public string Descripcion { get; set; }
-        public string Calle { get; set; }
-        public string Colonia { get; set; }
-        public string Ciudad { get; set; }
-        public string CodigoPostal { get; set; }
-        public string Municipio { get; set; }
-        public string Estado { get; set; }
-        public string Pais { get; set; }
-        public string Telefono { get; set; }
-        public string Celular { get; set; }
         public string Rfc { get; set; }
-        public string Correo { get; set; }
         public int UsuarioId { get; set; }
         public int UsuarioCreadorId { get; set; }
         public int UsuarioModificadorId { get; set; }
         [ForeignKey("UsuarioId")]
         public virtual UsuarioSistema Usuario { get; set; }
+
+        public virtual ICollection<Direccion> Direcciones { get; set; }
     }
 }
