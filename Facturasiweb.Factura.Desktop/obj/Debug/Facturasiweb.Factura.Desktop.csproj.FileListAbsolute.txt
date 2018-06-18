@@ -28,3 +28,17 @@ C:\self\Facturasiweb.Factura\Facturasiweb.Factura.Desktop\obj\Debug\Facturasiweb
 C:\self\Facturasiweb.Factura\Facturasiweb.Factura.Desktop\obj\Debug\Facturasiweb.Factura.Desktop.csproj.CoreCompileInputs.cache
 C:\self\Facturasiweb.Factura\Facturasiweb.Factura.Desktop\obj\Debug\Facturasiweb.Factura.Desktop.exe
 C:\self\Facturasiweb.Factura\Facturasiweb.Factura.Desktop\obj\Debug\Facturasiweb.Factura.Desktop.pdb
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Desktop\bin\Debug\Facturasiweb.Factura.Desktop.exe.config
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Desktop\bin\Debug\Facturasiweb.Factura.Desktop.exe
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Desktop\bin\Debug\Facturasiweb.Factura.Desktop.pdb
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Desktop\obj\Debug\Facturasiweb.Factura.Desktop.csprojResolveAssemblyReference.cache
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Desktop\obj\Debug\MainWindow.g.cs
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Desktop\obj\Debug\App.g.cs
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Desktop\obj\Debug\Facturasiweb.Factura.Desktop_MarkupCompile.cache
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Desktop\obj\Debug\Facturasiweb.Factura.Desktop_MarkupCompile.lref
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Desktop\obj\Debug\MainWindow.baml
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Desktop\obj\Debug\Facturasiweb.Factura.Desktop.g.resources
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Desktop\obj\Debug\Facturasiweb.Factura.Desktop.Properties.Resources.resources
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Desktop\obj\Debug\Facturasiweb.Factura.Desktop.csproj.GenerateResource.Cache
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Desktop\obj\Debug\Facturasiweb.Factura.Desktop.exe
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Desktop\obj\Debug\Facturasiweb.Factura.Desktop.pdb

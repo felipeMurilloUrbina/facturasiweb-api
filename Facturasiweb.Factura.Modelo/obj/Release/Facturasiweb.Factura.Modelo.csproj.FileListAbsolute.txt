@@ -57,3 +57,16 @@ C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.Modelo\obj\Re
 C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.Modelo\obj\Release\Facturasiweb.Factura.Modelo.csproj.CopyComplete
 C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.Modelo\obj\Release\Facturasiweb.Factura.Modelo.dll
 C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.Modelo\obj\Release\Facturasiweb.Factura.Modelo.pdb
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Modelo\bin\Release\Facturasiweb.Factura.Modelo.dll.config
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Modelo\bin\Release\Facturasiweb.Factura.Modelo.dll
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Modelo\bin\Release\Facturasiweb.Factura.Modelo.pdb
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Modelo\bin\Release\EntityFramework.dll
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Modelo\bin\Release\EntityFramework.SqlServer.dll
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Modelo\bin\Release\EntityFramework.SqlServerCompact.dll
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Modelo\bin\Release\System.Data.SqlServerCe.dll
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Modelo\bin\Release\EntityFramework.xml
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Modelo\bin\Release\EntityFramework.SqlServer.xml
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Modelo\bin\Release\EntityFramework.SqlServerCompact.xml
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Modelo\obj\Release\Facturasiweb.Factura.Modelo.csprojResolveAssemblyReference.cache
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Modelo\obj\Release\Facturasiweb.Factura.Modelo.dll
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Modelo\obj\Release\Facturasiweb.Factura.Modelo.pdb

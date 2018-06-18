@@ -1,0 +1,1 @@
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.ApiLogin\obj\Debug\Facturasiweb.Factura.ApiLogin.csprojResolveAssemblyReference.cache

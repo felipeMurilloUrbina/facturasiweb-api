@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:ine="http://www.sat.gob.mx/ine" xmlns:iedu="http://www.sat.gob.mx/iedu" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3  http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd http://www.sat.gob.mx/iedu http://www.sat.gob.mx/sitio_internet/cfd/iedu/iedu.xsd" Version="3.3" Serie="AC" Folio="31" Fecha="2018-02-09T08:50:48" Sello="GM1qQ2vZUzNfzrpWY+/245X43Ubv36MkQGfJQKjWn6A5/xYRp3EbkSq02KfhnZ5f0WY9z74JrHx3SibZK3Ren1PkQW1mI2r2sjDxoSORgM2WLfSFMtVSyDfHZrG8u8hzQqT/KPUlshpUldXLFe2cXMX8H9Gaw15XL0RWbhfnR/tH7xOCLxvwkROcTnn7NwvbNonVeH64PrZOByV/ndPuVwx1bhV5tNThOJAdzyBsORo9HvBkCYIu4Y3RVfv4ohpm6bqiTZh+KEn3lJddN4Tr+l4zq3gDXD4KA02woHXYUkCjvO0yvARLiKJWtkjMp4N3GovA+/+3PpaPlMtSxT2S3Q==" FormaPago="01" NoCertificado="00001000000404971218" Certificado="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" SubTotal="70.00" Descuento="0.00" Moneda="MXN" Total="73.73" TipoDeComprobante="I" MetodoPago="PUE" LugarExpedicion="81254">
+  <cfdi:Emisor Rfc="OUUR80060493A" Nombre="RAMON IVAN ORDUÑO URBINA" RegimenFiscal="621" />
+  <cfdi:Receptor Rfc="RATM6506028F6" Nombre="MONICA RAMOS TARRYSA" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="49161503" NoIdentificacion="W0004" Cantidad="1.00" ClaveUnidad="XUN" Unidad="Unidad" Descripcion="PELOTA DE BEISBOL WILSON" ValorUnitario="70.00" Descuento="0.00" Importe="70.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="70.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="11.20" />
+        </cfdi:Traslados>
+        <cfdi:Retenciones>
+          <cfdi:Retencion Base="70.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.106666" Importe="7.47" />
+        </cfdi:Retenciones>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="11.20" TotalImpuestosRetenidos="7.47">
+    <cfdi:Retenciones>
+      <cfdi:Retencion Impuesto="002" Importe="7.47" />
+    </cfdi:Retenciones>
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" Importe="11.20" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <ine:INE xmlns:xsi="http://www.sat.gob.mx/ine" Version="1.1" TipoProceso="Ordinario" TipoComite="Ejecutivo Estatal">
+      <ine:Entidad ClaveEntidad="SIN">
+        <ine:Contabilidad IdContabilidad="000005" />
+      </ine:Entidad>
+    </ine:INE>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" SelloCFD="GM1qQ2vZUzNfzrpWY+/245X43Ubv36MkQGfJQKjWn6A5/xYRp3EbkSq02KfhnZ5f0WY9z74JrHx3SibZK3Ren1PkQW1mI2r2sjDxoSORgM2WLfSFMtVSyDfHZrG8u8hzQqT/KPUlshpUldXLFe2cXMX8H9Gaw15XL0RWbhfnR/tH7xOCLxvwkROcTnn7NwvbNonVeH64PrZOByV/ndPuVwx1bhV5tNThOJAdzyBsORo9HvBkCYIu4Y3RVfv4ohpm6bqiTZh+KEn3lJddN4Tr+l4zq3gDXD4KA02woHXYUkCjvO0yvARLiKJWtkjMp4N3GovA+/+3PpaPlMtSxT2S3Q==" NoCertificadoSAT="00001000000405332712" RfcProvCertif="FIN1203015JA" UUID="554D3AC5-886F-455B-B983-681A09A0AE75" FechaTimbrado="2018-02-09T08:50:52" SelloSAT="iFi3i8Vw479OiIiRDt9pkygLRRMMU6iwN7W3F3AUuPooOvmVk9aKk3nBrTYrvtfnLbwzwmoRLfvIV1CZaNhYUsyBbaWg7DWR785HxKHE5jrSSd/XWP/jxp5e2cZGKorJmBA0Sae4i4kIA8MaQZ0UEVVmGegXIxfBtjEx0+OOp8ERHdjr7gz4RN34fq/WGzb7uZ03TQ6ZXkBjGfwXGknlTsuek235+/WWOY2y3h5MDIMYZBhOlhncKal1pZJYsoHnHgcuiQS1PiHkA2mEK5pTz6KvFcr97OAl3MRY8RFV/bE659Nu7ZASabPpdvKIwUdoOJaIsv9JRWAIiHzcjYcOkg==" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

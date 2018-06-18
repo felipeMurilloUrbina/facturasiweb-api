@@ -16,3 +16,16 @@ C:\self\Facturasiweb.Factura\Facturasiweb.Factura.Reportes\obj\Debug\Facturasiwe
 C:\self\Facturasiweb.Factura\Facturasiweb.Factura.Reportes\bin\Debug\Facturasiweb.Factura.Modelo.dll
 C:\self\Facturasiweb.Factura\Facturasiweb.Factura.Reportes\bin\Debug\Facturasiweb.Factura.Modelo.pdb
 C:\self\Facturasiweb.Factura\Facturasiweb.Factura.Reportes\bin\Debug\Facturasiweb.Factura.Modelo.dll.config
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Reportes\obj\Debug\Facturasiweb.Factura.Reportes.csprojResolveAssemblyReference.cache
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Reportes\obj\Debug\Facturasiweb.Factura.Reportes.dll
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Reportes\obj\Debug\Facturasiweb.Factura.Reportes.pdb
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Reportes\bin\Debug\Facturasiweb.Factura.Reportes.dll.config
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Reportes\bin\Debug\Facturasiweb.Factura.Reportes.dll
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Reportes\bin\Debug\Facturasiweb.Factura.Reportes.pdb
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Reportes\bin\Debug\Facturasiweb.Factura.LogDLL.dll
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Reportes\bin\Debug\Facturasiweb.Factura.Modelo.dll
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Reportes\bin\Debug\Newtonsoft.Json.dll
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Reportes\bin\Debug\Facturasiweb.Factura.LogDLL.pdb
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Reportes\bin\Debug\Facturasiweb.Factura.Modelo.pdb
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Reportes\bin\Debug\Facturasiweb.Factura.Modelo.dll.config
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Reportes\bin\Debug\Newtonsoft.Json.xml

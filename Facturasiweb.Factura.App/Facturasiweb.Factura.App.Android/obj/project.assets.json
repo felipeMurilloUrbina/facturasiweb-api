@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 2,
   "targets": {
     "MonoAndroid,Version=v8.1": {
       "Xamarin.Android.Arch.Core.Common/1.0.0": {
@@ -337,22 +337,13 @@
           "lib/MonoAndroid10/Xamarin.Forms.Xaml.dll": {}
         },
         "build": {
-          "build/netstandard2.0/Xamarin.Forms.props": {},
-          "build/netstandard2.0/Xamarin.Forms.targets": {}
+          "build/netstandard1.0/Xamarin.Forms.props": {},
+          "build/netstandard1.0/Xamarin.Forms.targets": {}
         }
       },
       "Facturasiweb.Factura.App/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Xamarin.Forms": "3.0.0.446417"
-        },
-        "compile": {
-          "bin/placeholder/Facturasiweb.Factura.App.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Facturasiweb.Factura.App.dll": {}
-        }
+        "framework": "Unsupported,Version=v0.0"
       }
     }
   },
@@ -750,65 +741,81 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Sistemas\\.nuget\\packages\\": {}
+    "C:\\Users\\Felipe.Murillo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\desarrollo\\proyectos\\self\\facturasiweb-api\\Facturasiweb.Factura.App\\Facturasiweb.Factura.App.Android\\Facturasiweb.Factura.App.Android.csproj",
+      "projectUniqueName": "C:\\self\\git\\facturasiweb-api\\Facturasiweb.Factura.App\\Facturasiweb.Factura.App.Android\\Facturasiweb.Factura.App.Android.csproj",
       "projectName": "Facturasiweb.Factura.App.Android",
-      "projectPath": "C:\\desarrollo\\proyectos\\self\\facturasiweb-api\\Facturasiweb.Factura.App\\Facturasiweb.Factura.App.Android\\Facturasiweb.Factura.App.Android.csproj",
-      "packagesPath": "C:\\Users\\Sistemas\\.nuget\\packages\\",
-      "outputPath": "C:\\desarrollo\\proyectos\\self\\facturasiweb-api\\Facturasiweb.Factura.App\\Facturasiweb.Factura.App.Android\\obj\\",
+      "projectPath": "C:\\self\\git\\facturasiweb-api\\Facturasiweb.Factura.App\\Facturasiweb.Factura.App.Android\\Facturasiweb.Factura.App.Android.csproj",
+      "outputPath": "C:\\self\\git\\facturasiweb-api\\Facturasiweb.Factura.App\\Facturasiweb.Factura.App.Android\\obj\\",
       "projectStyle": "PackageReference",
-      "skipContentFileWrite": true,
-      "configFilePaths": [
-        "C:\\Users\\Sistemas\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-      ],
       "originalTargetFrameworks": [
         "monoandroid81"
       ],
-      "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
-      },
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "C:\\desarrollo\\proyectos\\self\\facturasiweb-api\\Facturasiweb.Factura.App\\Facturasiweb.Factura.App\\Facturasiweb.Factura.App.csproj": {
-              "projectPath": "C:\\desarrollo\\proyectos\\self\\facturasiweb-api\\Facturasiweb.Factura.App\\Facturasiweb.Factura.App\\Facturasiweb.Factura.App.csproj"
+            "C:\\self\\git\\facturasiweb-api\\Facturasiweb.Factura.App\\Facturasiweb.Factura.App\\Facturasiweb.Factura.App.csproj": {
+              "projectPath": "C:\\self\\git\\facturasiweb-api\\Facturasiweb.Factura.App\\Facturasiweb.Factura.App\\Facturasiweb.Factura.App.csproj"
             }
           }
         }
       }
     },
+    "dependencies": {
+      "Xamarin.Forms": {
+        "target": "Package",
+        "version": "3.0.0.446417"
+      },
+      "Xamarin.Android.Support.Design": {
+        "target": "Package",
+        "version": "27.0.2"
+      },
+      "Xamarin.Android.Support.v7.AppCompat": {
+        "target": "Package",
+        "version": "27.0.2"
+      },
+      "Xamarin.Android.Support.v4": {
+        "target": "Package",
+        "version": "27.0.2"
+      },
+      "Xamarin.Android.Support.v7.CardView": {
+        "target": "Package",
+        "version": "27.0.2"
+      },
+      "Xamarin.Android.Support.v7.MediaRouter": {
+        "target": "Package",
+        "version": "27.0.2"
+      }
+    },
     "frameworks": {
       "monoandroid81": {
         "dependencies": {
+          "Xamarin.Forms": {
+            "target": "Package",
+            "version": "3.0.0.446417"
+          },
           "Xamarin.Android.Support.Design": {
             "target": "Package",
-            "version": "[27.0.2, )"
-          },
-          "Xamarin.Android.Support.v4": {
-            "target": "Package",
-            "version": "[27.0.2, )"
+            "version": "27.0.2"
           },
           "Xamarin.Android.Support.v7.AppCompat": {
             "target": "Package",
-            "version": "[27.0.2, )"
+            "version": "27.0.2"
+          },
+          "Xamarin.Android.Support.v4": {
+            "target": "Package",
+            "version": "27.0.2"
           },
           "Xamarin.Android.Support.v7.CardView": {
             "target": "Package",
-            "version": "[27.0.2, )"
+            "version": "27.0.2"
           },
           "Xamarin.Android.Support.v7.MediaRouter": {
             "target": "Package",
-            "version": "[27.0.2, )"
-          },
-          "Xamarin.Forms": {
-            "target": "Package",
-            "version": "[3.0.0.446417, )"
+            "version": "27.0.2"
           }
         }
       }

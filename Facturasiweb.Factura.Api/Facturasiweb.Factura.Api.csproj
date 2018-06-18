@@ -291,7 +291,6 @@
     <Content Include="xslt\ecc11.xslt" />
     <Content Include="xslt\iedu.xslt" />
     <Content Include="xslt\implocal.xslt" />
-    <Content Include="xslt\ine10.xslt" />
     <Content Include="xslt\ine11.xslt" />
     <Content Include="xslt\leyendasFisc.xslt" />
     <Content Include="xslt\nomina11.xslt" />
@@ -307,6 +306,7 @@
     <Content Include="xslt\spei.xslt" />
     <Content Include="xslt\terceros11.xslt" />
     <Content Include="xslt\TuristaPasajeroExtranjero.xslt" />
+    <Content Include="xslt\utilerias.xslt" />
     <Content Include="xslt\valesdedespensa.xslt" />
     <Content Include="xslt\vehiculousado.xslt" />
     <Content Include="xslt\ventavehiculos11.xslt" />

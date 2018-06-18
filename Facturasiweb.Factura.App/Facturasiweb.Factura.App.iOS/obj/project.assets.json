@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 2,
   "targets": {
     "Xamarin.iOS,Version=v1.0": {
       "Xamarin.Forms/3.0.0.446417": {
@@ -121,22 +121,13 @@
           }
         },
         "build": {
-          "build/netstandard2.0/Xamarin.Forms.props": {},
-          "build/netstandard2.0/Xamarin.Forms.targets": {}
+          "build/netstandard1.0/Xamarin.Forms.props": {},
+          "build/netstandard1.0/Xamarin.Forms.targets": {}
         }
       },
       "Facturasiweb.Factura.App/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Xamarin.Forms": "3.0.0.446417"
-        },
-        "compile": {
-          "bin/placeholder/Facturasiweb.Factura.App.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Facturasiweb.Factura.App.dll": {}
-        }
+        "framework": "Unsupported,Version=v0.0"
       }
     },
     "Xamarin.iOS,Version=v1.0/win": {
@@ -259,22 +250,13 @@
           }
         },
         "build": {
-          "build/netstandard2.0/Xamarin.Forms.props": {},
-          "build/netstandard2.0/Xamarin.Forms.targets": {}
+          "build/netstandard1.0/Xamarin.Forms.props": {},
+          "build/netstandard1.0/Xamarin.Forms.targets": {}
         }
       },
       "Facturasiweb.Factura.App/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Xamarin.Forms": "3.0.0.446417"
-        },
-        "compile": {
-          "bin/placeholder/Facturasiweb.Factura.App.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Facturasiweb.Factura.App.dll": {}
-        }
+        "framework": "Unsupported,Version=v0.0"
       }
     },
     "Xamarin.iOS,Version=v1.0/win-x64": {
@@ -397,22 +379,13 @@
           }
         },
         "build": {
-          "build/netstandard2.0/Xamarin.Forms.props": {},
-          "build/netstandard2.0/Xamarin.Forms.targets": {}
+          "build/netstandard1.0/Xamarin.Forms.props": {},
+          "build/netstandard1.0/Xamarin.Forms.targets": {}
         }
       },
       "Facturasiweb.Factura.App/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Xamarin.Forms": "3.0.0.446417"
-        },
-        "compile": {
-          "bin/placeholder/Facturasiweb.Factura.App.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Facturasiweb.Factura.App.dll": {}
-        }
+        "framework": "Unsupported,Version=v0.0"
       }
     },
     "Xamarin.iOS,Version=v1.0/win-x86": {
@@ -535,22 +508,13 @@
           }
         },
         "build": {
-          "build/netstandard2.0/Xamarin.Forms.props": {},
-          "build/netstandard2.0/Xamarin.Forms.targets": {}
+          "build/netstandard1.0/Xamarin.Forms.props": {},
+          "build/netstandard1.0/Xamarin.Forms.targets": {}
         }
       },
       "Facturasiweb.Factura.App/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Xamarin.Forms": "3.0.0.446417"
-        },
-        "compile": {
-          "bin/placeholder/Facturasiweb.Factura.App.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Facturasiweb.Factura.App.dll": {}
-        }
+        "framework": "Unsupported,Version=v0.0"
       }
     }
   },
@@ -707,37 +671,33 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Sistemas\\.nuget\\packages\\": {}
+    "C:\\Users\\Felipe.Murillo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\desarrollo\\proyectos\\self\\facturasiweb-api\\Facturasiweb.Factura.App\\Facturasiweb.Factura.App.iOS\\Facturasiweb.Factura.App.iOS.csproj",
+      "projectUniqueName": "C:\\self\\git\\facturasiweb-api\\Facturasiweb.Factura.App\\Facturasiweb.Factura.App.iOS\\Facturasiweb.Factura.App.iOS.csproj",
       "projectName": "Facturasiweb.Factura.App.iOS",
-      "projectPath": "C:\\desarrollo\\proyectos\\self\\facturasiweb-api\\Facturasiweb.Factura.App\\Facturasiweb.Factura.App.iOS\\Facturasiweb.Factura.App.iOS.csproj",
-      "packagesPath": "C:\\Users\\Sistemas\\.nuget\\packages\\",
-      "outputPath": "C:\\desarrollo\\proyectos\\self\\facturasiweb-api\\Facturasiweb.Factura.App\\Facturasiweb.Factura.App.iOS\\obj\\",
+      "projectPath": "C:\\self\\git\\facturasiweb-api\\Facturasiweb.Factura.App\\Facturasiweb.Factura.App.iOS\\Facturasiweb.Factura.App.iOS.csproj",
+      "outputPath": "C:\\self\\git\\facturasiweb-api\\Facturasiweb.Factura.App\\Facturasiweb.Factura.App.iOS\\obj\\",
       "projectStyle": "PackageReference",
-      "skipContentFileWrite": true,
-      "configFilePaths": [
-        "C:\\Users\\Sistemas\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-      ],
       "originalTargetFrameworks": [
         "xamarinios10"
       ],
-      "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
-      },
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\desarrollo\\proyectos\\self\\facturasiweb-api\\Facturasiweb.Factura.App\\Facturasiweb.Factura.App\\Facturasiweb.Factura.App.csproj": {
-              "projectPath": "C:\\desarrollo\\proyectos\\self\\facturasiweb-api\\Facturasiweb.Factura.App\\Facturasiweb.Factura.App\\Facturasiweb.Factura.App.csproj"
+            "C:\\self\\git\\facturasiweb-api\\Facturasiweb.Factura.App\\Facturasiweb.Factura.App\\Facturasiweb.Factura.App.csproj": {
+              "projectPath": "C:\\self\\git\\facturasiweb-api\\Facturasiweb.Factura.App\\Facturasiweb.Factura.App\\Facturasiweb.Factura.App.csproj"
             }
           }
         }
+      }
+    },
+    "dependencies": {
+      "Xamarin.Forms": {
+        "target": "Package",
+        "version": "3.0.0.446417"
       }
     },
     "frameworks": {
@@ -745,7 +705,7 @@
         "dependencies": {
           "Xamarin.Forms": {
             "target": "Package",
-            "version": "[3.0.0.446417, )"
+            "version": "3.0.0.446417"
           }
         }
       }

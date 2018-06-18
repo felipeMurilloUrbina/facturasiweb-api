@@ -49,3 +49,16 @@ C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.Reportes\obj\
 C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.Reportes\obj\Release\Facturasiweb.Factura.Reportes.csproj.CopyComplete
 C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.Reportes\obj\Release\Facturasiweb.Factura.Reportes.dll
 C:\desarrollo\proyectos\self\facturasiweb-api\Facturasiweb.Factura.Reportes\obj\Release\Facturasiweb.Factura.Reportes.pdb
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Reportes\obj\Release\Facturasiweb.Factura.Reportes.csprojResolveAssemblyReference.cache
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Reportes\obj\Release\Facturasiweb.Factura.Reportes.dll
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Reportes\obj\Release\Facturasiweb.Factura.Reportes.pdb
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Reportes\bin\Release\Facturasiweb.Factura.Reportes.dll.config
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Reportes\bin\Release\Facturasiweb.Factura.Reportes.dll
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Reportes\bin\Release\Facturasiweb.Factura.Reportes.pdb
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Reportes\bin\Release\Facturasiweb.Factura.LogDLL.dll
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Reportes\bin\Release\Facturasiweb.Factura.Modelo.dll
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Reportes\bin\Release\Newtonsoft.Json.dll
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Reportes\bin\Release\Facturasiweb.Factura.LogDLL.pdb
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Reportes\bin\Release\Facturasiweb.Factura.Modelo.pdb
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Reportes\bin\Release\Facturasiweb.Factura.Modelo.dll.config
+C:\self\git\facturasiweb-api\Facturasiweb.Factura.Reportes\bin\Release\Newtonsoft.Json.xml
