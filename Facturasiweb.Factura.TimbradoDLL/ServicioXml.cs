@@ -168,6 +168,11 @@ namespace Facturasiweb.Factura.TimbradoDLL
                 XmlCreador.WriteStartElement("cfdi:Conceptos"); //element de conceptos
                 foreach (FactDetalle detalle in detalles)
                 {
+                    if ((detalle.CatSatProducto == null) ||(detalle.CatSatUnidad ==null))
+                    {
+                        error = "Es Necesario la clasificacion del detalle en el catalogo sat";
+                        return false;
+                    }
                     XmlCreador.WriteStartElement("cfdi:Concepto");//INICIO DE CONCEPTO
                     XmlCreador.WriteStartAttribute("ClaveProdServ");
                     XmlCreador.WriteValue(detalle.CatSatProducto.Codigo);
@@ -613,7 +618,11 @@ namespace Facturasiweb.Factura.TimbradoDLL
                 this.Certificado = _servicioCertificado.GetCertificado(rutaCarpetaTemp, rutaCertificado, factura.Sucursal.RutaCer);
                 if (String.IsNullOrEmpty(this.Certificado))
                     return false;
-                GenerarXML(ref error, rutaGuardadoCFDI, factura);
+                if(GenerarXML(ref error, rutaGuardadoCFDI, factura))
+                {
+                    this.GenerarFin();
+                    return false;
+                }
                 factura.CadenaOriginal = _servicioCertificado.GetCadenaOriginal(ref error, rutaGuardadoCFDI, rutaXSLT);
                 if (String.IsNullOrEmpty(factura.CadenaOriginal))
                     return false;

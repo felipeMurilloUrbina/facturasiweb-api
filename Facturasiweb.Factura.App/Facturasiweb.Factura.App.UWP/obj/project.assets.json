@@ -277,19 +277,6 @@
           "build/netstandard2.0/Xamarin.Forms.props": {},
           "build/netstandard2.0/Xamarin.Forms.targets": {}
         }
-      },
-      "Facturasiweb.Factura.App/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Xamarin.Forms": "3.0.0.446417"
-        },
-        "compile": {
-          "bin/placeholder/Facturasiweb.Factura.App.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Facturasiweb.Factura.App.dll": {}
-        }
       }
     },
     "UAP,Version=v10.0.16299/win10-arm": {
@@ -741,19 +728,6 @@
         "build": {
           "build/netstandard2.0/Xamarin.Forms.props": {},
           "build/netstandard2.0/Xamarin.Forms.targets": {}
-        }
-      },
-      "Facturasiweb.Factura.App/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Xamarin.Forms": "3.0.0.446417"
-        },
-        "compile": {
-          "bin/placeholder/Facturasiweb.Factura.App.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Facturasiweb.Factura.App.dll": {}
         }
       }
     },
@@ -1208,19 +1182,6 @@
           "build/netstandard2.0/Xamarin.Forms.props": {},
           "build/netstandard2.0/Xamarin.Forms.targets": {}
         }
-      },
-      "Facturasiweb.Factura.App/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Xamarin.Forms": "3.0.0.446417"
-        },
-        "compile": {
-          "bin/placeholder/Facturasiweb.Factura.App.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Facturasiweb.Factura.App.dll": {}
-        }
       }
     },
     "UAP,Version=v10.0.16299/win10-arm64-aot": {
@@ -1498,19 +1459,6 @@
         "build": {
           "build/netstandard2.0/Xamarin.Forms.props": {},
           "build/netstandard2.0/Xamarin.Forms.targets": {}
-        }
-      },
-      "Facturasiweb.Factura.App/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Xamarin.Forms": "3.0.0.446417"
-        },
-        "compile": {
-          "bin/placeholder/Facturasiweb.Factura.App.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Facturasiweb.Factura.App.dll": {}
         }
       }
     },
@@ -1963,19 +1911,6 @@
         "build": {
           "build/netstandard2.0/Xamarin.Forms.props": {},
           "build/netstandard2.0/Xamarin.Forms.targets": {}
-        }
-      },
-      "Facturasiweb.Factura.App/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Xamarin.Forms": "3.0.0.446417"
-        },
-        "compile": {
-          "bin/placeholder/Facturasiweb.Factura.App.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Facturasiweb.Factura.App.dll": {}
         }
       }
     },
@@ -2430,19 +2365,6 @@
           "build/netstandard2.0/Xamarin.Forms.props": {},
           "build/netstandard2.0/Xamarin.Forms.targets": {}
         }
-      },
-      "Facturasiweb.Factura.App/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Xamarin.Forms": "3.0.0.446417"
-        },
-        "compile": {
-          "bin/placeholder/Facturasiweb.Factura.App.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Facturasiweb.Factura.App.dll": {}
-        }
       }
     },
     "UAP,Version=v10.0.16299/win10-x86": {
@@ -2894,19 +2816,6 @@
         "build": {
           "build/netstandard2.0/Xamarin.Forms.props": {},
           "build/netstandard2.0/Xamarin.Forms.targets": {}
-        }
-      },
-      "Facturasiweb.Factura.App/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Xamarin.Forms": "3.0.0.446417"
-        },
-        "compile": {
-          "bin/placeholder/Facturasiweb.Factura.App.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Facturasiweb.Factura.App.dll": {}
         }
       }
     },
@@ -3360,19 +3269,6 @@
         "build": {
           "build/netstandard2.0/Xamarin.Forms.props": {},
           "build/netstandard2.0/Xamarin.Forms.targets": {}
-        }
-      },
-      "Facturasiweb.Factura.App/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Xamarin.Forms": "3.0.0.446417"
-        },
-        "compile": {
-          "bin/placeholder/Facturasiweb.Factura.App.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Facturasiweb.Factura.App.dll": {}
         }
       }
     }
@@ -7012,16 +6908,10 @@
         "xamarin.forms.3.0.0.446417.nupkg.sha512",
         "xamarin.forms.nuspec"
       ]
-    },
-    "Facturasiweb.Factura.App/1.0.0": {
-      "type": "project",
-      "path": "../Facturasiweb.Factura.App/Facturasiweb.Factura.App.csproj",
-      "msbuildProject": "../Facturasiweb.Factura.App/Facturasiweb.Factura.App.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "UAP,Version=v10.0.16299": [
-      "Facturasiweb.Factura.App >= 1.0.0",
       "Microsoft.NETCore.UniversalWindowsPlatform >= 6.0.1",
       "Xamarin.Forms >= 3.0.0.446417"
     ]
@@ -7052,15 +6942,12 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nugetized.blob.core.windows.net/live-reload/index.json": {}
       },
       "frameworks": {
         "uap10.0.16299": {
-          "projectReferences": {
-            "C:\\desarrollo\\proyectos\\self\\facturasiweb-api\\Facturasiweb.Factura.App\\Facturasiweb.Factura.App\\Facturasiweb.Factura.App.csproj": {
-              "projectPath": "C:\\desarrollo\\proyectos\\self\\facturasiweb-api\\Facturasiweb.Factura.App\\Facturasiweb.Factura.App\\Facturasiweb.Factura.App.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       }
     },
