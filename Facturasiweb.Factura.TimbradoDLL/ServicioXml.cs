@@ -618,7 +618,7 @@ namespace Facturasiweb.Factura.TimbradoDLL
                 this.Certificado = _servicioCertificado.GetCertificado(rutaCarpetaTemp, rutaCertificado, factura.Sucursal.RutaCer);
                 if (String.IsNullOrEmpty(this.Certificado))
                     return false;
-                if(GenerarXML(ref error, rutaGuardadoCFDI, factura))
+                if(!GenerarXML(ref error, rutaGuardadoCFDI, factura))
                 {
                     this.GenerarFin();
                     return false;
@@ -629,7 +629,11 @@ namespace Facturasiweb.Factura.TimbradoDLL
                 this.SelloDigital = _servicioCertificado.GetSelloDigital(ref error, rutaKey, factura.Sucursal.ClavePrivada, factura.CadenaOriginal);
                 if (String.IsNullOrEmpty(this.SelloDigital))
                     return false;
-                GenerarXML(ref error, rutaGuardadoCFDI, factura);
+                if (!GenerarXML(ref error, rutaGuardadoCFDI, factura))
+                {
+                    this.GenerarFin();
+                    return false;
+                }
                 return true;
             }
             catch (Exception e)
