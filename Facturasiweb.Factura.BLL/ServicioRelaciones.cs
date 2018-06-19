@@ -41,8 +41,8 @@ namespace Facturasiweb.Factura.BLL
 
                 foreach (var detalle in factura.Detalles)
                 {
-                    detalle.CatSatProducto = detalle.CatSatProducto ?? _contexto.CatSatProductos.Find(detalle.CatalogoId);
-                    detalle.CatSatUnidad = detalle.CatSatUnidad ?? _contexto.CatSatUnidades.Find(detalle.UnidadId);
+                    detalle.CatSatProducto =  _contexto.CatSatProductos.Find(detalle.CatalogoId);
+                    detalle.CatSatUnidad = _contexto.CatSatUnidades.Find(detalle.UnidadId);
                 }
             }
             catch (Exception e)
