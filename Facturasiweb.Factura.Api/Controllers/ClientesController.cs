@@ -48,7 +48,7 @@ namespace Facturasiweb.Factura.Api.Controllers
         public IHttpActionResult Post(Cliente cliente)
         {
             if (_servicio.Post(ref _error, cliente, Util.USUARIO))
-                return Ok("Cliente Guardada Correctamente");
+                return Ok("Cliente Guardado Correctamente");
             else
                 return BadRequest(_error);
         }
@@ -62,7 +62,7 @@ namespace Facturasiweb.Factura.Api.Controllers
         {
             //var usuario = Util.DecryptToken(Request.Headers);
             if (_servicio.Put(ref _error, cliente, Util.USUARIO))
-                return Ok("Cliente Guardada Correctamente");
+                return Ok("Cliente Guardado Correctamente");
             else
                 return BadRequest(_error);
         }

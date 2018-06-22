@@ -21,7 +21,15 @@ namespace Facturasiweb.Factura.BLL
         }
         public Cliente GetId(int clienteId)
         {
-            return this._contexto.Clientes.Include(c=>c.Direcciones).Where(c=>c.Id==clienteId).FirstOrDefault();
+            try
+            {
+                return this._contexto.Clientes.Include(c=>c.Direcciones).Where(c=>c.Id==clienteId).FirstOrDefault();
+            }
+            catch (Exception e)
+            {
+
+                throw;
+            }
         }
         public Boolean Post(ref string error, Cliente cliente, UsuarioDto usuario)
         {
@@ -45,10 +53,10 @@ namespace Facturasiweb.Factura.BLL
         {
             cliente.UsuarioModificadorId = usuario.Id;
             cliente.UsuarioId = usuario.UsuarioSistemaId;
-            this._contexto.Database.ExecuteSqlCommandAsync($"DELETE FROM DIRECCIONES WHERE CLIENTEID={cliente.Id}", null);
             this._contexto.Entry(cliente).State = EntityState.Modified;
             try
                {
+                this._contexto.Database.ExecuteSqlCommandAsync($"DELETE FROM DIRECCIONES WHERE CLIENTEID={cliente.Id}");
                 this._contexto.SaveChanges();
                 return true;
             }
