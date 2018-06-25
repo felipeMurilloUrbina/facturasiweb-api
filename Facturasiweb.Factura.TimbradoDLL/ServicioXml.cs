@@ -168,11 +168,6 @@ namespace Facturasiweb.Factura.TimbradoDLL
                 XmlCreador.WriteStartElement("cfdi:Conceptos"); //element de conceptos
                 foreach (FactDetalle detalle in detalles)
                 {
-                    if ((detalle.CatSatProducto == null) ||(detalle.CatSatUnidad ==null))
-                    {
-                        error = "Es Necesario la clasificacion del detalle en el catalogo sat";
-                        return false;
-                    }
                     XmlCreador.WriteStartElement("cfdi:Concepto");//INICIO DE CONCEPTO
                     XmlCreador.WriteStartAttribute("ClaveProdServ");
                     XmlCreador.WriteValue(detalle.CatSatProducto.Codigo);

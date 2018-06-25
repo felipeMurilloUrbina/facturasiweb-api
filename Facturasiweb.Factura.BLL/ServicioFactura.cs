@@ -249,6 +249,11 @@ namespace Facturasiweb.Factura.BLL
                 error += "Favor de seleccionar una forma de pago.";
             if (factura.Detalles.Count() == 0)
                 error += "La Factura necesita de un detalle.";
+            foreach(var detalle in factura.Detalles)
+            {
+                if (detalle.CatalogoId == 0 || detalle.UnidadId == 0)
+                    error += "Es necesario la unidad y clasificacion de sat.";
+            }
             if (error.Length > 0)
                 return false;
             else

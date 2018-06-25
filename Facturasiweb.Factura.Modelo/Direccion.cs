@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 
 namespace Facturasiweb.Factura.Modelo
 {
+    [Table("Direcciones")]
     public class Direccion: Base
     {
         public int ClienteId { get; set; }

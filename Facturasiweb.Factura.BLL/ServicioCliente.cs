@@ -45,10 +45,10 @@ namespace Facturasiweb.Factura.BLL
         {
             cliente.UsuarioModificadorId = usuario.Id;
             cliente.UsuarioId = usuario.UsuarioSistemaId;
-            this._contexto.Database.ExecuteSqlCommandAsync($"DELETE FROM DIRECCIONES WHERE CLIENTEID={cliente.Id}", null);
             this._contexto.Entry(cliente).State = EntityState.Modified;
             try
                {
+                this._contexto.Database.ExecuteSqlCommand($"DELETE FROM DIRECCIONES WHERE CLIENTEID={cliente.Id}");
                 this._contexto.SaveChanges();
                 return true;
             }
